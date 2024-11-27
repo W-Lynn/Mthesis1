@@ -1,0 +1,1234 @@
+province_id,province,Type of Construction,2014,2015,2016,2017,2018,2019,2020,2021,2022
+14,Bangkok,Engineering construction measured in length,747809,715103,5894,744657,930228,894181,775528,615605,775938
+14,Bangkok,Fence / wall,83293,35760,640,49917,51337,45155,69845,47013,31809
+14,Bangkok,Road,161572,130639,0,121185,173741,167330,114345,80502,157435
+14,Bangkok,Bridge,11011,16322,0,13336,8055,16174,1538,2338,1100
+14,Bangkok,Dam,14179,8210,0,8272,9810,68863,11891,8514,14975
+14,Bangkok,Water drain,475564,522700,5254,551808,685850,596659,577909,477238,570571
+14,Bangkok,Others,2190,1472,0,139,1435,0,0,0,48
+14,Bangkok,Engineering construction measured in area,432745,457490,8593,420845,556263,292156,402406,229929,308156
+14,Bangkok,Swimming pool,46483,14923,0,20247,22073,18744,13980,11167,8166
+14,Bangkok,Petrol station (Oil/LPG/NGV),2895,7078,257,6053,17385,19878,12424,13634,7224
+14,Bangkok,Harbour,474,,,0,37,1029,412,0,0
+14,Bangkok,Sport ground,14739,35595,0,65399,27256,45952,22900,36918,5313
+14,Bangkok,Car park,326479,336058,8336,281790,421585,184013,321942,128938,279392
+14,Bangkok,Advertisting board,12796,10415,0,4906,34057,8908,4853,3978,2297
+14,Bangkok,Phone Antenna,,,,,,3062,2695,1685,1225
+14,Bangkok,Others,28879,53421,0,42450,33870,10570,23200,33609,4539
+69,Samut Prakan,Engineering construction measured in length,226903,208325,97846,126168,156075,95185,162425,197670,222360
+69,Samut Prakan,Fence / wall,19161,36141,8094,9570,23948,12059,18692,30814,26415
+69,Samut Prakan,Road,7047,20666,4119,4452,7761,8588,13659,11186,9157
+69,Samut Prakan,Bridge,4209,12157,6742,7675,16061,8157,6832,4691,10450
+69,Samut Prakan,Dam,22062,6399,2916,7102,3197,3584,4849,2275,2645
+69,Samut Prakan,Water drain,167667,132256,75900,96908,98670,62797,118331,148704,173693
+69,Samut Prakan,Others,6757,706,75,461,6438,0,62,0,0
+69,Samut Prakan,Engineering construction measured in area,186696,193474,124030,198816,176663,127959,188924,184571,255812
+69,Samut Prakan,Swimming pool,4146,6614,3926,6454,6135,6653,6636,3303,13293
+69,Samut Prakan,Petrol station (Oil/LPG/NGV),2278,2801,0,11038,14173,5014,22965,3010,2815
+69,Samut Prakan,Harbour,598,5835,0,0,173,1056,187,0,0
+69,Samut Prakan,Sport ground,,5483,4190,4961,10798,2867,1052,16785,9044
+69,Samut Prakan,Car park,149076,129941,94134,148479,138833,94483,128758,114345,129356
+69,Samut Prakan,Advertisting board,3547,2551,3491,3738,3478,1614,2509,1323,3077
+69,Samut Prakan,Phone Antenna,,,,,,1780,975,959,1104
+69,Samut Prakan,Others,27051,40249,18289,24146,3073,14492,25842,44846,97123
+38,Nonthaburi,Engineering construction measured in length,110129,164553,82205,147932,192376,238304,112155,144187,241592
+38,Nonthaburi,Fence / wall,26258,74855,35084,52819,62711,68103,26841,42832,64393
+38,Nonthaburi,Road,4200,1772,1161,3961,5176,56397,4264,2987,2311
+38,Nonthaburi,Bridge,3867,3870,3212,7003,8295,7619,8544,3546,8014
+38,Nonthaburi,Dam,2069,4133,4141,10428,7274,1968,4592,3300,8497
+38,Nonthaburi,Water drain,73198,79745,38570,73197,108879,104217,67914,88658,157657
+38,Nonthaburi,Others,537,178,37,524,41,0,0,2864,720
+38,Nonthaburi,Engineering construction measured in area,90223,71506,51624,86628,88387,89194,103205,126181,164209
+38,Nonthaburi,Swimming pool,3713,1463,4179,10827,9181,8178,2340,10513,9925
+38,Nonthaburi,Petrol station (Oil/LPG/NGV),2177,3405,4744,2990,13753,7952,20916,9954,10436
+38,Nonthaburi,Harbour,,,,12835,28,128,208,1418,89
+38,Nonthaburi,Sport ground,7644,10945,1925,0,5203,6732,6283,12718,4398
+38,Nonthaburi,Car park,39665,28493,30562,33080,47943,57001,51348,76828,126991
+38,Nonthaburi,Advertisting board,11428,13976,6448,6049,8265,4937,5138,3167,7259
+38,Nonthaburi,Phone Antenna,,,,,,2383,919,584,712
+38,Nonthaburi,Others,25596,13224,3766,20847,4014,1883,16053,10999,4399
+58,Pathum Thani,Engineering construction measured in length,134714,96604,16234,165708,180896,262614,159391,244702,265394
+58,Pathum Thani,Fence / wall,29210,18209,2162,15933,15413,20979,13073,24133,11648
+58,Pathum Thani,Road,19268,12622,1500,15761,43579,70360,41282,55333,67362
+58,Pathum Thani,Bridge,510,531,263,6796,945,2111,2215,2957,733
+58,Pathum Thani,Dam,421,1739,1015,4543,1153,904,4286,3490,516
+58,Pathum Thani,Water drain,83557,62925,11111,120801,119365,167631,97897,157964,185135
+58,Pathum Thani,Others,1748,578,183,1874,441,629,638,825,0
+58,Pathum Thani,Engineering construction measured in area,134082,153114,50239,257470,134554,165665,207737,182602,152708
+58,Pathum Thani,Swimming pool,1718,4411,254,8248,3312,4599,5813,4584,9039
+58,Pathum Thani,Petrol station (Oil/LPG/NGV),1185,660,547,42435,4431,21273,12343,11475,5561
+58,Pathum Thani,Harbour,334,,,0,0,0,0,10732,0
+58,Pathum Thani,Sport ground,4163,4034,2288,17099,7680,14171,9563,5514,0
+58,Pathum Thani,Car park,91764,125193,25589,108776,102501,105237,127785,81531,99596
+58,Pathum Thani,Advertisting board,5677,5080,2903,8057,6722,8414,4074,3941,9791
+58,Pathum Thani,Phone Antenna,,,,,,2998,1563,951,1063
+58,Pathum Thani,Others,29241,13736,18658,72855,9908,8973,46596,63874,27658
+27,Nakhon Pathom,Engineering construction measured in length,77842,51521,27040,61058,47153,59881,55631,48649,39868
+27,Nakhon Pathom,Fence / wall,29274,13006,13184,29311,13913,13092,9080,9566,13322
+27,Nakhon Pathom,Road,10176,6327,3389,5508,7216,1438,6597,4416,885
+27,Nakhon Pathom,Bridge,341,518,282,407,1500,413,605,591,1193
+27,Nakhon Pathom,Dam,1701,1403,2580,11490,1570,14593,2504,1627,1520
+27,Nakhon Pathom,Water drain,36044,30267,7605,14342,22809,30233,36845,32289,21410
+27,Nakhon Pathom,Others,306,,,0,145,112,0,160,1538
+27,Nakhon Pathom,Engineering construction measured in area,27670,82193,21646,40623,27914,82003,60486,144793,45437
+27,Nakhon Pathom,Swimming pool,420,1106,3297,50,375,106,1181,456,148
+27,Nakhon Pathom,Petrol station (Oil/LPG/NGV),668,2538,8282,2515,1882,24836,23130,33185,8093
+27,Nakhon Pathom,Harbour,,,,0,0,190,0,0,39
+27,Nakhon Pathom,Sport ground,,4916,2954,846,814,1548,0,900,1320
+27,Nakhon Pathom,Car park,9536,56868,5326,25116,17073,52334,28977,80906,30095
+27,Nakhon Pathom,Advertisting board,2324,3761,813,2000,2084,1273,2630,2049,1807
+27,Nakhon Pathom,Phone Antenna,,,,,,1454,1780,765,636
+27,Nakhon Pathom,Others,14722,13004,974,10096,5686,262,2788,26532,3299
+68,Samut Sakhon,Engineering construction measured in length,136755,159105,72786,190798,148741,200421,137066,138632,178398
+68,Samut Sakhon,Fence / wall,10601,8728,7770,27440,21523,25938,18189,17871,8485
+68,Samut Sakhon,Road,20532,14901,950,12111,8041,6333,4973,8494,13339
+68,Samut Sakhon,Bridge,2545,1631,841,2101,1086,2182,1475,2298,1271
+68,Samut Sakhon,Dam,,3431,444,750,3435,2447,651,194,2857
+68,Samut Sakhon,Water drain,103077,130414,62482,148184,114015,163432,111778,109775,152446
+68,Samut Sakhon,Others,,,299,212,641,89,0,0,0
+68,Samut Sakhon,Engineering construction measured in area,56338,68909,31281,96839,49617,109240,78135,114180,103244
+68,Samut Sakhon,Swimming pool,,1190,288,215,2235,8393,813,2565,1130
+68,Samut Sakhon,Petrol station (Oil/LPG/NGV),854,12624,0,6582,7642,36970,7686,7832,2982
+68,Samut Sakhon,Harbour,,,,1536,0,0,602,1650,475
+68,Samut Sakhon,Sport ground,441,,,0,766,0,1153,1926,1209
+68,Samut Sakhon,Car park,20130,45474,25641,78101,29155,57505,63844,55926,46039
+68,Samut Sakhon,Advertisting board,3546,971,460,1616,2266,4106,1062,919,2273
+68,Samut Sakhon,Phone Antenna,,,,,,2064,2805,886,937
+68,Samut Sakhon,Others,31367,8650,4892,8789,7553,202,170,42476,48199
+53,Phra Nakhon Sri Ayuthaya,Engineering construction measured in length,3718,31387,11580,31058,19645,28006,26528,34064,39379
+53,Phra Nakhon Sri Ayuthaya,Fence / wall,1467,12606,2505,6141,7930,9731,11471,5432,16737
+53,Phra Nakhon Sri Ayuthaya,Road,756,7242,2500,6739,4239,7897,4740,6928,2128
+53,Phra Nakhon Sri Ayuthaya,Bridge,,,,6270,555,376,546,477,888
+53,Phra Nakhon Sri Ayuthaya,Dam,,,,2763,1338,403,599,10349,4447
+53,Phra Nakhon Sri Ayuthaya,Water drain,1495,3029,6575,8523,2595,9587,9172,10878,15179
+53,Phra Nakhon Sri Ayuthaya,Others,,8510,,622,2988,12,0,0,0
+53,Phra Nakhon Sri Ayuthaya,Engineering construction measured in area,11933,45900,6379,35586,13830,31502,19669,87276,24327
+53,Phra Nakhon Sri Ayuthaya,Swimming pool,112,912,,0,465,252,179,135,0
+53,Phra Nakhon Sri Ayuthaya,Petrol station (Oil/LPG/NGV),3880,855,,4829,3215,4634,1262,5880,13524
+53,Phra Nakhon Sri Ayuthaya,Harbour,,,,0,669,679,1032,0,329
+53,Phra Nakhon Sri Ayuthaya,Sport ground,,,,5000,0,2457,1922,120,0
+53,Phra Nakhon Sri Ayuthaya,Car park,1108,25568,5655,13160,4408,20466,11973,42462,8513
+53,Phra Nakhon Sri Ayuthaya,Advertisting board,1726,9542,50,996,2612,656,1189,4451,58
+53,Phra Nakhon Sri Ayuthaya,Phone Antenna,,,,,,643,694,133,363
+53,Phra Nakhon Sri Ayuthaya,Others,5107,9023,674,11601,2461,1715,1418,34095,1540
+45,Ang Thong,Engineering construction measured in length,25,,644,1380,80,0,635,140,921
+45,Ang Thong,Fence / wall,,,64,500,0,0,298,140,173
+45,Ang Thong,Road,,,380,800,0,0,217,0,47
+45,Ang Thong,Bridge,25,,,80,80,0,120,0,0
+45,Ang Thong,Dam,,,,0,0,0,0,0,0
+45,Ang Thong,Water drain,,,200,0,0,0,0,0,0
+45,Ang Thong,Others,,,,0,0,0,0,0,701
+45,Ang Thong,Engineering construction measured in area,,,134,563,1390,200,850,1348,10841
+45,Ang Thong,Swimming pool,,,,0,0,200,0,0,0
+45,Ang Thong,Petrol station (Oil/LPG/NGV),,,,0,500,0,0,0,5350
+45,Ang Thong,Harbour,,,,0,0,0,0,0,0
+45,Ang Thong,Sport ground,,,,200,550,0,0,0,0
+45,Ang Thong,Car park,,,,75,200,0,850,688,64
+45,Ang Thong,Advertisting board,,,,180,140,0,0,119,3
+45,Ang Thong,Phone Antenna,,,,,,0,0,0,281
+45,Ang Thong,Others,,,134,108,0,0,0,541,5143
+62,Lop Buri,Engineering construction measured in length,6083,8860,643,6396,9686,3945,10256,2451,7029
+62,Lop Buri,Fence / wall,763,5041,284,400,5395,583,5829,1683,4003
+62,Lop Buri,Road,197,,359,1035,0,0,1345,0,1479
+62,Lop Buri,Bridge,,,,0,0,0,0,0,28
+62,Lop Buri,Dam,637,,,1828,0,0,0,0,0
+62,Lop Buri,Water drain,4061,3674,0,3091,4227,3332,3082,768,1519
+62,Lop Buri,Others,425,145,,42,64,30,0,0,0
+62,Lop Buri,Engineering construction measured in area,18169,11545,1288,6190,6203,8530,7366,338,6646
+62,Lop Buri,Swimming pool,,205,0,100,0,380,960,0,21
+62,Lop Buri,Petrol station (Oil/LPG/NGV),,686,,306,2056,1876,6,7,0
+62,Lop Buri,Harbour,,,,0,0,0,0,0,0
+62,Lop Buri,Sport ground,,,0,0,0,0,0,0,0
+62,Lop Buri,Car park,,7605,0,1597,925,369,1180,0,1979
+62,Lop Buri,Advertisting board,20,435,58,1222,1375,100,1231,119,2903
+62,Lop Buri,Phone Antenna,,,,,,389,329,212,16
+62,Lop Buri,Others,18149,2614,1230,2965,1847,5416,3660,0,1727
+49,Singburi,Engineering construction measured in length,,25,,1210,0,0,128,890,765
+49,Singburi,Fence / wall,,25,,0,0,0,128,890,765
+49,Singburi,Road,,,,0,0,0,0,0,0
+49,Singburi,Bridge,,,,0,0,0,0,0,0
+49,Singburi,Dam,,,,1170,0,0,0,0,0
+49,Singburi,Water drain,,,,0,0,0,0,0,0
+49,Singburi,Others,,,,40,0,0,0,0,0
+49,Singburi,Engineering construction measured in area,283,529,852,9082,183,1498,1159,80,440
+49,Singburi,Swimming pool,,,,0,0,0,0,0,205
+49,Singburi,Petrol station (Oil/LPG/NGV),,,,0,0,0,1060,0,0
+49,Singburi,Harbour,,,,0,0,0,0,0,0
+49,Singburi,Sport ground,,,,0,0,0,0,0,0
+49,Singburi,Car park,,529,,8780,0,1471,0,0,101
+49,Singburi,Advertisting board,13,,,147,0,27,0,80,20
+49,Singburi,Phone Antenna,,,,,,0,99,0,0
+49,Singburi,Others,270,,852,155,183,0,0,0,114
+66,Chai Nat,Engineering construction measured in length,1618,2636,0,1126,2179,1135,13495,2392,12305
+66,Chai Nat,Fence / wall,746,129,0,165,718,365,4530,1416,9452
+66,Chai Nat,Road,,,,0,0,0,0,0,0
+66,Chai Nat,Bridge,,,,0,0,0,14,0,0
+66,Chai Nat,Dam,,,,0,0,0,1829,0,0
+66,Chai Nat,Water drain,631,2453,0,901,1461,770,7080,976,2853
+66,Chai Nat,Others,241,54,0,60,0,0,42,0,0
+66,Chai Nat,Engineering construction measured in area,1950,1246,0,1018,18491,3299,3519,1057,2674
+66,Chai Nat,Swimming pool,,,,0,0,0,0,164,0
+66,Chai Nat,Petrol station (Oil/LPG/NGV),516,146,,0,17530,2957,768,317,2136
+66,Chai Nat,Harbour,,,,0,0,0,0,0,0
+66,Chai Nat,Sport ground,,,,0,0,0,0,0,0
+66,Chai Nat,Car park,167,916,,620,841,208,48,0,28
+66,Chai Nat,Advertisting board,,40,0,0,90,0,41,20,489
+66,Chai Nat,Phone Antenna,,,,,,134,0,52,21
+66,Chai Nat,Others,1267,144,0,398,30,0,2662,504,0
+17,Saraburi,Engineering construction measured in length,21502,18991,9833,12860,7717,6835,26084,23622,17676
+17,Saraburi,Fence / wall,3226,4519,1722,2673,1087,324,6198,6557,3492
+17,Saraburi,Road,7768,3931,4389,1192,0,1770,1392,1559,4042
+17,Saraburi,Bridge,,260,341,32,0,8,0,857,0
+17,Saraburi,Dam,,,2416,41,10,0,0,0,0
+17,Saraburi,Water drain,8972,10148,965,8922,6620,4733,18494,8169,10142
+17,Saraburi,Others,1536,133,0,0,0,0,0,6480,0
+17,Saraburi,Engineering construction measured in area,32595,52443,38645,30114,16756,18565,38339,21167,29969
+17,Saraburi,Swimming pool,872,417,,160,4250,0,450,914,25
+17,Saraburi,Petrol station (Oil/LPG/NGV),1505,8644,15112,613,2249,15874,9869,4328,6042
+17,Saraburi,Harbour,,,,0,0,0,0,263,0
+17,Saraburi,Sport ground,756,1132,,0,0,683,996,0,0
+17,Saraburi,Car park,19783,22373,4721,24376,8984,1395,22204,8748,17589
+17,Saraburi,Advertisting board,2453,1132,647,496,707,334,1971,1004,409
+17,Saraburi,Phone Antenna,,,,,,279,1695,351,104
+17,Saraburi,Others,7226,18745,18165,4469,566,0,1154,5559,5800
+64,Chon Buri,Engineering construction measured in length,151650,132702,60050,98648,120874,109478,86597,76159,113818
+64,Chon Buri,Fence / wall,36449,36759,7046,27095,33109,26783,33541,27236,36975
+64,Chon Buri,Road,3611,36031,36601,9790,17725,8062,15434,5196,20650
+64,Chon Buri,Bridge,237,5725,0,490,1839,451,1400,617,1072
+64,Chon Buri,Dam,192,125,3835,6097,0,288,288,0,0
+64,Chon Buri,Water drain,105808,53793,11539,54617,68001,73894,35934,43110,55121
+64,Chon Buri,Others,5353,269,1029,559,200,0,0,0,0
+64,Chon Buri,Engineering construction measured in area,220989,418849,60434,269319,153945,228963,170041,83071,477068
+64,Chon Buri,Swimming pool,13875,9116,0,10896,6478,15670,6167,10428,8778
+64,Chon Buri,Petrol station (Oil/LPG/NGV),10105,11123,3385,5839,12848,8738,21636,2849,36083
+64,Chon Buri,Harbour,,35531,,0,226,0,0,0,14960
+64,Chon Buri,Sport ground,,7985,3838,42831,3189,9822,12442,6541,6702
+64,Chon Buri,Car park,149395,330727,48055,111290,101078,111885,105868,47157,78822
+64,Chon Buri,Advertisting board,13089,5813,1728,3868,4666,6427,2818,3558,3530
+64,Chon Buri,Phone Antenna,,,,,,1615,5084,2146,1263
+64,Chon Buri,Others,34525,18554,3428,94595,25460,74806,16026,10392,326930
+51,Rayong,Engineering construction measured in length,110395,95086,16686,82154,72734,49362,151259,39466,114115
+51,Rayong,Fence / wall,27545,40352,859,19356,27348,9336,21904,14915,14166
+51,Rayong,Road,25599,5714,12087,18305,15705,16197,31431,11799,49711
+51,Rayong,Bridge,40,1166,50,2137,110,400,2258,171,302
+51,Rayong,Dam,868,,0,12728,48,0,1548,0,1537
+51,Rayong,Water drain,55585,47846,3690,28895,29500,23429,94048,12499,48028
+51,Rayong,Others,758,8,0,733,23,0,70,82,371
+51,Rayong,Engineering construction measured in area,83820,48530,18898,99551,63568,108987,149271,61712,42972
+51,Rayong,Swimming pool,704,255,356,2542,1386,487,439,298,2313
+51,Rayong,Petrol station (Oil/LPG/NGV),4016,,145,3233,104,4906,1877,3605,994
+51,Rayong,Harbour,,,,0,0,0,600,0,0
+51,Rayong,Sport ground,2900,2810,0,1100,5897,546,0,0,959
+51,Rayong,Car park,38712,22024,17921,75633,47821,93797,118587,42150,13842
+51,Rayong,Advertisting board,1290,943,89,1805,4050,2417,2997,5581,15368
+51,Rayong,Phone Antenna,,,,,,1005,2972,977,397
+51,Rayong,Others,36198,22498,387,15238,4310,5829,21799,9101,9099
+71,Chanthaburi,Engineering construction measured in length,1569,3514,1524,6578,5634,6261,4752,8190,7834
+71,Chanthaburi,Fence / wall,1438,2437,1524,3270,4123,5161,4623,6895,5990
+71,Chanthaburi,Road,,833,0,2796,50,922,0,535,1127
+71,Chanthaburi,Bridge,,,,0,0,28,0,0,90
+71,Chanthaburi,Dam,,23,,120,119,41,0,270,21
+71,Chanthaburi,Water drain,131,221,0,368,1242,109,65,490,606
+71,Chanthaburi,Others,,,0,24,100,0,64,0,0
+71,Chanthaburi,Engineering construction measured in area,877,2678,11966,6381,12157,19330,30977,24645,9666
+71,Chanthaburi,Swimming pool,,,0,1084,239,4319,462,238,50
+71,Chanthaburi,Petrol station (Oil/LPG/NGV),,83,,3561,3934,3502,25265,5329,2789
+71,Chanthaburi,Harbour,,,,0,0,0,0,0,42
+71,Chanthaburi,Sport ground,,,,0,0,1699,0,0,0
+71,Chanthaburi,Car park,,29,11760,96,5865,2777,4335,4017,2730
+71,Chanthaburi,Advertisting board,88,696,43,232,506,2076,211,246,2140
+71,Chanthaburi,Phone Antenna,,,,,,396,704,410,468
+71,Chanthaburi,Others,789,1870,163,1408,1613,4561,0,14405,1447
+29,Trat,Engineering construction measured in length,1473,2769,1127,3268,2520,1857,4934,1924,2064
+29,Trat,Fence / wall,1156,1399,542,1500,1631,1720,3830,279,2022
+29,Trat,Road,,14,576,0,0,0,596,390,0
+29,Trat,Bridge,56,643,,0,499,0,0,0,0
+29,Trat,Dam,,,,1113,196,116,28,1255,42
+29,Trat,Water drain,85,713,9,612,0,21,480,0,0
+29,Trat,Others,176,,,43,194,0,0,0,0
+29,Trat,Engineering construction measured in area,5934,4387,713,9166,3476,1613,9564,2066,3233
+29,Trat,Swimming pool,,852,0,2831,778,616,939,0,142
+29,Trat,Petrol station (Oil/LPG/NGV),114,,,2458,1272,9,2340,1463,0
+29,Trat,Harbour,70,,,0,0,0,0,0,2612
+29,Trat,Sport ground,,,,0,0,0,0,0,0
+29,Trat,Car park,,42,0,2741,0,293,120,0,0
+29,Trat,Advertisting board,104,,13,111,13,0,0,0,49
+29,Trat,Phone Antenna,,,,,,93,25,227,145
+29,Trat,Others,5646,3493,700,1025,1413,602,6140,376,285
+4,Chachoengsao,Engineering construction measured in length,22167,25660,8823,13970,25048,18350,17492,18727,33975
+4,Chachoengsao,Fence / wall,3583,13262,1522,5339,6269,5083,5765,10138,16986
+4,Chachoengsao,Road,3681,1792,1399,2268,2040,2036,1300,787,1102
+4,Chachoengsao,Bridge,117,480,1202,281,366,100,2,227,160
+4,Chachoengsao,Dam,,139,0,201,8790,0,528,620,499
+4,Chachoengsao,Water drain,8721,9752,4691,5881,7579,11111,9897,6955,15228
+4,Chachoengsao,Others,6065,235,9,0,4,20,0,0,0
+4,Chachoengsao,Engineering construction measured in area,43335,23458,14926,21594,20834,53538,19880,249684,56241
+4,Chachoengsao,Swimming pool,836,1654,160,172,4005,571,419,159,0
+4,Chachoengsao,Petrol station (Oil/LPG/NGV),474,8190,500,2903,2886,43289,7714,13171,2260
+4,Chachoengsao,Harbour,,,,2576,0,0,0,0,67
+4,Chachoengsao,Sport ground,,650,3780,0,4200,0,0,0,3645
+4,Chachoengsao,Car park,39161,7238,8110,11337,3486,2248,7780,150316,10417
+4,Chachoengsao,Advertisting board,617,81,536,1129,233,708,1634,691,635
+4,Chachoengsao,Phone Antenna,,,,,,1250,2327,829,210
+4,Chachoengsao,Others,2247,5645,1840,3477,6024,5472,6,84518,39007
+52,Prachin Buri,Engineering construction measured in length,33318,17181,8380,9237,1274,29,349,135,0
+52,Prachin Buri,Fence / wall,5419,169,2675,263,116,29,349,74,0
+52,Prachin Buri,Road,15952,12474,3784,7137,134,0,0,0,0
+52,Prachin Buri,Bridge,227,18,,0,0,0,0,0,0
+52,Prachin Buri,Dam,,50,,0,0,0,0,38,0
+52,Prachin Buri,Water drain,11720,4201,1921,92,1024,0,0,0,0
+52,Prachin Buri,Others,,269,,1745,0,0,0,23,0
+52,Prachin Buri,Engineering construction measured in area,41054,1759,743,3411,452,0,89,186,14060
+52,Prachin Buri,Swimming pool,,,,0,0,0,0,0,0
+52,Prachin Buri,Petrol station (Oil/LPG/NGV),226,,,0,4,0,89,0,14041
+52,Prachin Buri,Harbour,,,,0,0,0,0,0,0
+52,Prachin Buri,Sport ground,,,195,3375,0,0,0,0,0
+52,Prachin Buri,Car park,36772,145,55,0,0,0,0,0,0
+52,Prachin Buri,Advertisting board,1990,27,71,0,2,0,0,9,19
+52,Prachin Buri,Phone Antenna,,,,,,0,0,177,0
+52,Prachin Buri,Others,2066,1587,422,36,446,0,0,0,0
+60,Nakhon Nayok,Engineering construction measured in length,,,311,0,47,335,1043,1706,2354
+60,Nakhon Nayok,Fence / wall,,,311,0,47,0,728,1706,625
+60,Nakhon Nayok,Road,,,,0,0,0,0,0,0
+60,Nakhon Nayok,Bridge,,,,0,0,335,300,0,0
+60,Nakhon Nayok,Dam,,,,0,0,0,0,0,1064
+60,Nakhon Nayok,Water drain,,,,0,0,0,15,0,665
+60,Nakhon Nayok,Others,,,,0,0,0,0,0,0
+60,Nakhon Nayok,Engineering construction measured in area,,184,89,112,0,59,7954,2025,9855
+60,Nakhon Nayok,Swimming pool,,,,112,0,40,1097,0,0
+60,Nakhon Nayok,Petrol station (Oil/LPG/NGV),,,57,0,0,0,2463,387,464
+60,Nakhon Nayok,Harbour,,,,0,0,0,0,0,0
+60,Nakhon Nayok,Sport ground,,,,0,0,0,0,0,0
+60,Nakhon Nayok,Car park,,,,0,0,0,4320,0,8383
+60,Nakhon Nayok,Advertisting board,,,32,0,0,0,66,0,15
+60,Nakhon Nayok,Phone Antenna,,,,,,19,8,106,57
+60,Nakhon Nayok,Others,,184,,0,0,0,0,1532,936
+75,Sa Kaew,Engineering construction measured in length,821,6710,18573,3601,2953,0,334,4129,2259
+75,Sa Kaew,Fence / wall,,135,0,1248,2953,0,216,4129,2002
+75,Sa Kaew,Road,,,17923,1200,0,0,0,0,245
+75,Sa Kaew,Bridge,,,,0,0,0,0,0,0
+75,Sa Kaew,Dam,,,0,1086,0,0,0,0,0
+75,Sa Kaew,Water drain,648,,400,30,0,0,118,0,12
+75,Sa Kaew,Others,173,6575,250,37,0,0,0,0,0
+75,Sa Kaew,Engineering construction measured in area,22700,4857,1156,16690,9698,839,20590,9382,7126
+75,Sa Kaew,Swimming pool,,332,0,0,0,0,0,0,0
+75,Sa Kaew,Petrol station (Oil/LPG/NGV),,,220,7782,6760,749,6473,90,1332
+75,Sa Kaew,Harbour,,,,0,0,0,0,0,0
+75,Sa Kaew,Sport ground,,1344,,0,0,0,0,0,0
+75,Sa Kaew,Car park,21600,964,0,8200,0,0,13860,196,4963
+75,Sa Kaew,Advertisting board,,448,0,495,527,0,20,35,750
+75,Sa Kaew,Phone Antenna,,,,,,90,108,39,65
+75,Sa Kaew,Others,1100,1769,936,213,2411,0,129,9022,16
+8,Phetchaburi,Fence / wall,,,,,,,,,
+30,Ratchaburi,Engineering construction measured in length,14145,20539,10489,15105,13480,13709,11490,17708,12680
+30,Ratchaburi,Fence / wall,12912,16644,9272,13229,8668,11519,7963,14826,11547
+30,Ratchaburi,Road,690,2068,1000,222,4154,1145,0,713,0
+30,Ratchaburi,Bridge,134,74,0,47,34,0,141,300,12
+30,Ratchaburi,Dam,,70,93,116,57,97,443,955,68
+30,Ratchaburi,Water drain,409,1288,124,1491,567,948,2943,914,1053
+30,Ratchaburi,Others,,395,,0,0,0,0,0,0
+30,Ratchaburi,Engineering construction measured in area,49538,61810,15250,47170,32238,35380,60525,14768,12764
+30,Ratchaburi,Swimming pool,123,20,440,1265,788,692,789,1181,0
+30,Ratchaburi,Petrol station (Oil/LPG/NGV),5323,27716,6890,7165,18677,10999,12332,4227,1902
+30,Ratchaburi,Harbour,,,,0,276,450,1259,99,144
+30,Ratchaburi,Sport ground,2550,1020,,800,0,0,5668,0,0
+30,Ratchaburi,Car park,24349,13973,189,14807,4718,22221,39327,4020,6940
+30,Ratchaburi,Advertisting board,1115,13147,314,806,617,321,148,555,152
+30,Ratchaburi,Phone Antenna,,,,,,697,946,722,1076
+30,Ratchaburi,Others,16078,5934,7417,22327,7162,0,56,3964,2550
+73,Kanchanaburi,Engineering construction measured in length,3675,1515,0,2343,6294,2775,1430,1216,456
+73,Kanchanaburi,Fence / wall,517,1175,0,2064,2721,325,440,1140,173
+73,Kanchanaburi,Road,1180,,,0,2800,1860,888,0,0
+73,Kanchanaburi,Bridge,,,,0,0,0,0,0,0
+73,Kanchanaburi,Dam,,,,0,0,0,0,0,0
+73,Kanchanaburi,Water drain,1978,340,0,279,773,590,102,76,283
+73,Kanchanaburi,Others,,,,0,0,0,0,0,0
+73,Kanchanaburi,Engineering construction measured in area,7607,64618,15,8314,16594,4842,15771,4476,1295
+73,Kanchanaburi,Swimming pool,824,220,,189,0,0,0,0,0
+73,Kanchanaburi,Petrol station (Oil/LPG/NGV),372,42680,0,2458,3064,1433,246,1843,160
+73,Kanchanaburi,Harbour,,,,0,0,0,0,0,0
+73,Kanchanaburi,Sport ground,,,0,0,0,0,0,0,0
+73,Kanchanaburi,Car park,4151,21328,0,4884,6414,3093,14913,2618,802
+73,Kanchanaburi,Advertisting board,245,249,15,615,264,12,122,0,0
+73,Kanchanaburi,Phone Antenna,,,,,,68,490,15,201
+73,Kanchanaburi,Others,2015,141,0,168,6852,236,0,0,132
+48,Suphan Buri,Engineering construction measured in length,4525,3360,0,2409,1307,2996,5108,6676,2780
+48,Suphan Buri,Fence / wall,1669,1552,0,379,692,1870,4583,4548,1839
+48,Suphan Buri,Road,840,1398,,1949,376,359,0,2047,941
+48,Suphan Buri,Bridge,,,,0,0,11,0,0,0
+48,Suphan Buri,Dam,,,,0,120,0,525,0,0
+48,Suphan Buri,Water drain,,,0,81,119,756,0,81,0
+48,Suphan Buri,Others,2016,410,,0,0,0,0,0,0
+48,Suphan Buri,Engineering construction measured in area,47967,6583,23,349,3165,6375,9859,12972,2721
+48,Suphan Buri,Swimming pool,80,,,0,265,0,0,0,482
+48,Suphan Buri,Petrol station (Oil/LPG/NGV),30,3147,23,0,51,4749,1107,0,102
+48,Suphan Buri,Harbour,,,,0,0,0,0,0,0
+48,Suphan Buri,Sport ground,5091,,,0,0,0,1690,0,0
+48,Suphan Buri,Car park,7467,891,0,0,205,0,5430,312,54
+48,Suphan Buri,Advertisting board,381,,0,217,130,0,249,152,147
+48,Suphan Buri,Phone Antenna,,,,,,261,581,271,0
+48,Suphan Buri,Others,34918,2545,0,132,2514,1365,802,12237,1936
+50,Samut Songkhram,Engineering construction measured in length,7439,144,70,2357,5208,2800,4046,3385,5059
+50,Samut Songkhram,Fence / wall,95,42,,564,1547,1456,1561,887,2610
+50,Samut Songkhram,Road,420,20,,0,2480,0,0,50,0
+50,Samut Songkhram,Bridge,,,,210,109,198,45,237,94
+50,Samut Songkhram,Dam,6698,50,70,637,836,735,2225,1594,2027
+50,Samut Songkhram,Water drain,166,,0,46,115,411,215,617,296
+50,Samut Songkhram,Others,60,32,,900,121,0,0,0,32
+50,Samut Songkhram,Engineering construction measured in area,15318,1833,1885,4233,2762,1376,2033,6199,13996
+50,Samut Songkhram,Swimming pool,,,,0,0,0,0,0,0
+50,Samut Songkhram,Petrol station (Oil/LPG/NGV),1627,,,2476,0,0,129,5239,0
+50,Samut Songkhram,Harbour,32,,,0,0,0,0,0,34
+50,Samut Songkhram,Sport ground,,,,0,0,0,0,0,0
+50,Samut Songkhram,Car park,128,1386,1625,187,290,80,637,12,1040
+50,Samut Songkhram,Advertisting board,864,87,206,170,240,211,193,21,420
+50,Samut Songkhram,Phone Antenna,,,,,,302,389,105,46
+50,Samut Songkhram,Others,12667,360,54,1400,2232,783,685,822,12456
+8,Phetchaburi,Engineering construction measured in length,9542,4489,1662,2333,7194,5308,5161,3213,18938
+8,Phetchaburi,Fence / wall,2897,1980,494,1003,1671,1784,1750,1358,9075
+8,Phetchaburi,Road,830,1530,,487,4607,951,979,617,8062
+8,Phetchaburi,Bridge,,92,,0,38,0,167,1001,50
+8,Phetchaburi,Dam,,40,31,0,0,0,447,0,440
+8,Phetchaburi,Water drain,454,787,1137,747,798,2573,1818,237,1311
+8,Phetchaburi,Others,5361,60,0,96,80,0,0,0,0
+8,Phetchaburi,Engineering construction measured in area,31643,13597,1619,9035,10687,28586,6015,22885,16795
+8,Phetchaburi,Swimming pool,13042,2154,0,1784,681,1053,1340,975,968
+8,Phetchaburi,Petrol station (Oil/LPG/NGV),7629,6733,,0,4859,3318,3218,2785,10675
+8,Phetchaburi,Harbour,,,,0,0,0,0,0,0
+8,Phetchaburi,Sport ground,,,,0,0,0,0,1994,116
+8,Phetchaburi,Car park,,1053,364,273,120,16930,526,749,424
+8,Phetchaburi,Advertisting board,1771,1265,70,311,151,6993,314,18,37
+8,Phetchaburi,Phone Antenna,,,,,,292,372,206,3253
+8,Phetchaburi,Others,9201,2392,1185,6667,4876,0,245,16158,1322
+42,Phachuap Khiri Khan,Engineering construction measured in length,30123,27877,3099,26512,30301,28140,31198,26432,17308
+42,Phachuap Khiri Khan,Fence / wall,3378,476,2236,2306,3414,3301,4151,4069,3252
+42,Phachuap Khiri Khan,Road,3799,6036,525,2466,1790,6057,2000,886,688
+42,Phachuap Khiri Khan,Bridge,,,,0,90,138,0,0,0
+42,Phachuap Khiri Khan,Dam,208,180,338,2925,212,0,31,180,362
+42,Phachuap Khiri Khan,Water drain,22712,20731,0,18815,20523,18644,25016,21297,13006
+42,Phachuap Khiri Khan,Others,26,454,0,0,4272,0,0,0,0
+42,Phachuap Khiri Khan,Engineering construction measured in area,4651,16723,94153,15945,74715,33328,32600,27144,25779
+42,Phachuap Khiri Khan,Swimming pool,1122,5368,63171,5446,5363,14899,7938,5870,5894
+42,Phachuap Khiri Khan,Petrol station (Oil/LPG/NGV),,621,14100,704,48550,3374,9429,9791,6123
+42,Phachuap Khiri Khan,Harbour,,,,0,0,437,328,0,0
+42,Phachuap Khiri Khan,Sport ground,,,0,2058,2089,1150,0,2134,1965
+42,Phachuap Khiri Khan,Car park,724,1843,15405,1310,14728,10889,11909,7033,11151
+42,Phachuap Khiri Khan,Advertisting board,1475,323,53,216,570,966,922,132,159
+42,Phachuap Khiri Khan,Phone Antenna,,,,,,565,711,457,479
+42,Phachuap Khiri Khan,Others,1330,8568,1424,6211,3415,1048,1363,1727,8
+65,Chiang Mai,Engineering construction measured in length,122600,168778,16030,141921,109062,104330,100001,89705,69267
+65,Chiang Mai,Fence / wall,44173,49685,6782,36849,35374,37159,24809,36785,27736
+65,Chiang Mai,Road,7785,34109,3878,23187,11946,8209,13742,15168,13917
+65,Chiang Mai,Bridge,1400,7639,42,2760,2621,1619,8186,848,1644
+65,Chiang Mai,Dam,4093,5791,642,15799,9779,7531,3216,1110,1543
+65,Chiang Mai,Water drain,62640,70561,4626,62684,49115,49812,50026,21878,24427
+65,Chiang Mai,Others,2509,993,60,642,227,0,22,13916,0
+65,Chiang Mai,Engineering construction measured in area,100291,144738,4605,89417,70840,45351,37298,62840,126188
+65,Chiang Mai,Swimming pool,4358,24874,267,4635,5259,4782,1696,1193,2774
+65,Chiang Mai,Petrol station (Oil/LPG/NGV),7964,7626,774,16909,11852,2470,6954,5996,1737
+65,Chiang Mai,Harbour,,,0,1229,0,0,0,38,0
+65,Chiang Mai,Sport ground,,3600,,6602,159,4452,2984,0,4199
+65,Chiang Mai,Car park,49315,83919,840,50986,44846,31623,20656,37270,52156
+65,Chiang Mai,Advertisting board,6497,,0,3521,3175,1725,3511,1638,2486
+65,Chiang Mai,Phone Antenna,,,,,,297,859,803,1490
+65,Chiang Mai,Others,32157,,2724,5535,5549,2,638,15902,61346
+28,Lamphun,Engineering construction measured in length,12654,13701,329,18938,15935,16669,12639,19739,16661
+28,Lamphun,Fence / wall,4656,4629,0,4968,6599,7025,6937,12702,11101
+28,Lamphun,Road,948,,0,1979,1375,3374,986,558,320
+28,Lamphun,Bridge,182,,50,0,20,76,36,204,0
+28,Lamphun,Dam,126,,30,6312,0,0,442,0,0
+28,Lamphun,Water drain,6042,9012,249,5656,7777,6194,4238,6034,3345
+28,Lamphun,Others,700,60,0,23,164,0,0,241,1895
+28,Lamphun,Engineering construction measured in area,41868,56148,6771,15530,18701,16870,44910,32902,10652
+28,Lamphun,Swimming pool,,90,,299,1880,542,269,69,0
+28,Lamphun,Petrol station (Oil/LPG/NGV),,195,6663,2481,1490,2354,150,8442,49
+28,Lamphun,Harbour,,,,0,0,0,0,0,0
+28,Lamphun,Sport ground,,,,5760,0,0,3093,0,0
+28,Lamphun,Car park,3955,53902,108,4308,10762,9000,6870,19467,4193
+28,Lamphun,Advertisting board,142,231,0,524,571,1231,2235,290,569
+28,Lamphun,Phone Antenna,,,,,,515,343,366,203
+28,Lamphun,Others,37771,1730,0,2158,3998,3228,31950,4268,5638
+37,Lampang,Engineering construction measured in length,45701,38570,23150,14880,29917,20797,22371,25810,22911
+37,Lampang,Fence / wall,1428,3755,766,2085,4271,3840,4077,4967,7153
+37,Lampang,Road,23753,16371,11070,4211,13192,8542,9209,13161,7253
+37,Lampang,Bridge,,,,0,0,0,0,0,20
+37,Lampang,Dam,134,178,4932,1108,18,0,232,327,0
+37,Lampang,Water drain,19176,15890,2655,7414,12383,8415,8558,7348,8485
+37,Lampang,Others,1210,2376,3727,62,53,0,295,7,0
+37,Lampang,Engineering construction measured in area,39202,46770,8995,15960,48856,19474,1175,12967,16402
+37,Lampang,Swimming pool,130,413,0,0,126,0,0,0,2478
+37,Lampang,Petrol station (Oil/LPG/NGV),1866,18957,0,4414,31335,2326,55,2878,3069
+37,Lampang,Harbour,,,,0,0,0,0,0,0
+37,Lampang,Sport ground,,,,0,0,0,794,0,252
+37,Lampang,Car park,23749,16715,3178,3343,429,7571,120,8008,7990
+37,Lampang,Advertisting board,296,281,16,43,1367,89,116,394,211
+37,Lampang,Phone Antenna,,,,,,220,0,744,1821
+37,Lampang,Others,13161,10404,5801,8160,15599,9268,90,943,581
+34,Uttaradit,Engineering construction measured in length,9069,2083,0,6445,13446,12698,6524,7802,14299
+34,Uttaradit,Fence / wall,1292,490,0,2153,2513,3514,2819,5105,9846
+34,Uttaradit,Road,2978,,,1274,8797,6972,1192,845,1602
+34,Uttaradit,Bridge,,,,0,0,0,40,0,0
+34,Uttaradit,Dam,,,,2294,128,0,0,0,0
+34,Uttaradit,Water drain,4799,1593,0,719,1974,2212,2473,1852,2851
+34,Uttaradit,Others,,,0,5,34,0,0,0,0
+34,Uttaradit,Engineering construction measured in area,2482,96,0,826,7246,4791,5069,84098,3747
+34,Uttaradit,Swimming pool,,,0,0,0,0,0,0,0
+34,Uttaradit,Petrol station (Oil/LPG/NGV),,,0,304,5708,3260,4174,83145,210
+34,Uttaradit,Harbour,,,,0,0,0,0,0,0
+34,Uttaradit,Sport ground,1232,,,0,0,0,0,0,0
+34,Uttaradit,Car park,140,,0,102,124,560,674,82,288
+34,Uttaradit,Advertisting board,4,,0,195,68,159,50,107,236
+34,Uttaradit,Phone Antenna,,,,,,380,0,248,1003
+34,Uttaradit,Others,1106,96,0,225,1346,432,171,516,2010
+32,Phrae,Engineering construction measured in length,1438,6544,214,748,1067,525,912,1855,1309
+32,Phrae,Fence / wall,684,2213,47,659,508,322,491,1219,719
+32,Phrae,Road,,3776,,0,0,0,0,366,260
+32,Phrae,Bridge,129,20,,0,0,0,0,88,50
+32,Phrae,Dam,,10,,0,0,0,0,0,0
+32,Phrae,Water drain,44,525,167,89,559,203,421,182,280
+32,Phrae,Others,581,,0,0,0,0,0,0,0
+32,Phrae,Engineering construction measured in area,2005,1730,140,6545,2903,4485,678,18052,6872
+32,Phrae,Swimming pool,,,,30,0,0,40,0,0
+32,Phrae,Petrol station (Oil/LPG/NGV),,,0,4360,308,3299,0,9098,247
+32,Phrae,Harbour,,,,0,0,0,0,0,3378
+32,Phrae,Sport ground,,,,0,0,800,0,1093,0
+32,Phrae,Car park,78,132,0,0,2586,278,32,5552,2863
+32,Phrae,Advertisting board,363,75,0,374,9,25,92,1895,176
+32,Phrae,Phone Antenna,,,,,,83,466,398,208
+32,Phrae,Others,1564,1523,140,1781,0,0,48,16,0
+70,Nan,Engineering construction measured in length,2324,3184,269,2022,680,1635,281,1088,565
+70,Nan,Fence / wall,103,1184,269,1736,680,1635,281,757,444
+70,Nan,Road,,1348,,286,0,0,0,295,0
+70,Nan,Bridge,,,,0,0,0,0,36,121
+70,Nan,Dam,,,,0,0,0,0,0,0
+70,Nan,Water drain,2121,652,,0,0,0,0,0,0
+70,Nan,Others,100,,,0,0,0,0,0,0
+70,Nan,Engineering construction measured in area,17005,2335,0,3456,5814,2633,859,767,10824
+70,Nan,Swimming pool,,481,0,0,336,0,0,206,0
+70,Nan,Petrol station (Oil/LPG/NGV),4796,,,0,2642,2017,0,54,0
+70,Nan,Harbour,,,,0,0,0,0,0,0
+70,Nan,Sport ground,,,,1074,0,0,0,0,0
+70,Nan,Car park,5483,677,0,2340,0,66,600,448,6320
+70,Nan,Advertisting board,1102,365,,2,98,153,125,3,2445
+70,Nan,Phone Antenna,,,,,,97,134,56,1894
+70,Nan,Others,5624,812,,40,2738,300,0,0,165
+1,Phayao,Engineering construction measured in length,649,9080,10567,6611,7326,6221,3961,3441,2629
+1,Phayao,Fence / wall,576,1655,408,1606,139,683,1479,1156,1276
+1,Phayao,Road,,6147,1299,3873,7133,5052,1748,1653,622
+1,Phayao,Bridge,,,,0,0,0,0,27,108
+1,Phayao,Dam,4,323,2060,1026,0,0,0,0,73
+1,Phayao,Water drain,,,6800,6,12,486,734,605,85
+1,Phayao,Others,69,955,0,100,42,0,0,0,465
+1,Phayao,Engineering construction measured in area,1901,3467,30,11341,683,4959,42245,9479,1814
+1,Phayao,Swimming pool,,,0,0,0,0,0,0,0
+1,Phayao,Petrol station (Oil/LPG/NGV),576,1643,,478,0,302,12166,588,231
+1,Phayao,Harbour,,,,0,0,0,0,0,0
+1,Phayao,Sport ground,,,,0,0,0,3346,0,0
+1,Phayao,Car park,,116,30,2379,43,149,2576,3220,939
+1,Phayao,Advertisting board,252,59,0,448,0,36,1117,216,53
+1,Phayao,Phone Antenna,,,,,,0,49,34,331
+1,Phayao,Others,1073,1649,0,8036,640,4472,22991,5421,260
+25,Chiang Rai,Engineering construction measured in length,12354,15461,5776,27642,25530,31774,28909,26059,14220
+25,Chiang Rai,Fence / wall,11284,8867,2210,3054,3324,6930,8136,14309,7022
+25,Chiang Rai,Road,,2603,,16143,0,1296,4483,878,627
+25,Chiang Rai,Bridge,,51,6,446,723,40,120,421,283
+25,Chiang Rai,Dam,75,1165,3128,225,2476,184,0,0,20
+25,Chiang Rai,Water drain,550,2715,432,7774,19007,23024,16170,10451,6268
+25,Chiang Rai,Others,445,60,,0,0,300,0,0,0
+25,Chiang Rai,Engineering construction measured in area,22417,45470,2703,15948,5818,12413,48555,7710,18803
+25,Chiang Rai,Swimming pool,166,669,486,2648,1336,0,1739,0,56
+25,Chiang Rai,Petrol station (Oil/LPG/NGV),2337,98,1221,2241,0,1390,7702,517,9636
+25,Chiang Rai,Harbour,,,,0,0,0,0,0,0
+25,Chiang Rai,Sport ground,,186,170,0,546,0,0,495,0
+25,Chiang Rai,Car park,12591,31408,21,8654,2695,6055,36575,5767,6222
+25,Chiang Rai,Advertisting board,1671,4208,86,935,164,2234,2344,528,639
+25,Chiang Rai,Phone Antenna,,,,,,348,195,197,331
+25,Chiang Rai,Others,5652,8901,719,1470,1077,2386,0,206,1919
+74,Mae Hong Son,Engineering construction measured in length,27,100,,667,550,408,1004,1261,3220
+74,Mae Hong Son,Fence / wall,,,,359,480,408,522,271,1467
+74,Mae Hong Son,Road,,,,0,0,0,0,990,1725
+74,Mae Hong Son,Bridge,,,,308,70,0,0,0,0
+74,Mae Hong Son,Dam,,,,0,0,0,0,0,0
+74,Mae Hong Son,Water drain,,,,0,0,0,482,0,28
+74,Mae Hong Son,Others,27,100,,0,0,0,0,0,0
+74,Mae Hong Son,Engineering construction measured in area,1311,89,0,0,3511,135,0,3992,162
+74,Mae Hong Son,Swimming pool,,54,,0,219,0,0,0,0
+74,Mae Hong Son,Petrol station (Oil/LPG/NGV),,,,0,0,33,0,3440,0
+74,Mae Hong Son,Harbour,,,,0,0,0,0,0,0
+74,Mae Hong Son,Sport ground,,,,0,0,0,0,0,0
+74,Mae Hong Son,Car park,,,,0,3036,0,0,0,162
+74,Mae Hong Son,Advertisting board,,,,0,76,46,0,7,0
+74,Mae Hong Son,Phone Antenna,,,,,,56,0,0,0
+74,Mae Hong Son,Others,1311,35,0,0,180,0,0,545,0
+2,Nakhon Sawan,Engineering construction measured in length,1260,3405,,4746,5801,475,36546,47629,29663
+2,Nakhon Sawan,Fence / wall,513,100,,1227,2529,475,6552,16522,11031
+2,Nakhon Sawan,Road,,3305,,0,0,0,23601,11466,11646
+2,Nakhon Sawan,Bridge,,,,0,0,0,60,0,0
+2,Nakhon Sawan,Dam,,,,0,0,0,1000,0,1925
+2,Nakhon Sawan,Water drain,695,,,3519,3272,0,5333,19641,5061
+2,Nakhon Sawan,Others,52,,,0,0,0,0,0,0
+2,Nakhon Sawan,Engineering construction measured in area,1083,571,0,2317,3447,4716,826,27664,43579
+2,Nakhon Sawan,Swimming pool,,,,56,0,207,0,0,0
+2,Nakhon Sawan,Petrol station (Oil/LPG/NGV),,,,0,1623,4509,576,832,6061
+2,Nakhon Sawan,Harbour,,,,0,0,0,0,0,0
+2,Nakhon Sawan,Sport ground,,,,0,0,0,0,0,0
+2,Nakhon Sawan,Car park,358,,,2091,990,0,0,17616,36292
+2,Nakhon Sawan,Advertisting board,,,,0,436,0,222,181,812
+2,Nakhon Sawan,Phone Antenna,,,,,,0,28,533,45
+2,Nakhon Sawan,Others,725,571,0,170,398,0,0,8502,369
+18,Uthai Thani,Engineering construction measured in length,354,2728,1386,1517,472,1064,9,158,4846
+18,Uthai Thani,Fence / wall,354,2728,682,967,472,826,0,158,4846
+18,Uthai Thani,Road,,,632,540,0,175,0,0,0
+18,Uthai Thani,Bridge,,,,0,0,0,0,0,0
+18,Uthai Thani,Dam,,,,0,0,0,0,0,0
+18,Uthai Thani,Water drain,,,,0,0,33,9,0,0
+18,Uthai Thani,Others,,,72,10,0,30,0,0,0
+18,Uthai Thani,Engineering construction measured in area,3216,243,3482,902,683,601,2479,345,16830
+18,Uthai Thani,Swimming pool,,,,0,254,0,0,0,0
+18,Uthai Thani,Petrol station (Oil/LPG/NGV),346,,1286,757,0,60,1517,261,4230
+18,Uthai Thani,Harbour,,,,0,0,0,0,0,0
+18,Uthai Thani,Sport ground,,,,0,0,0,0,0,0
+18,Uthai Thani,Car park,407,,,0,0,118,17,0,0
+18,Uthai Thani,Advertisting board,486,5,0,56,0,21,100,0,0
+18,Uthai Thani,Phone Antenna,,,,,,168,783,84,0
+18,Uthai Thani,Others,1977,238,2196,89,429,234,62,0,12600
+36,Kam Phaeng Phet,Engineering construction measured in length,4066,15117,1267,6594,7810,13420,8154,8247,2184
+36,Kam Phaeng Phet,Fence / wall,3149,8074,1267,4664,1296,1024,3413,2498,1847
+36,Kam Phaeng Phet,Road,,600,0,1930,2678,7869,2838,5749,0
+36,Kam Phaeng Phet,Bridge,,,,0,0,0,0,0,0
+36,Kam Phaeng Phet,Dam,,,,0,0,0,0,0,0
+36,Kam Phaeng Phet,Water drain,,6225,,0,3794,4527,1903,0,337
+36,Kam Phaeng Phet,Others,917,218,,0,42,0,0,0,0
+36,Kam Phaeng Phet,Engineering construction measured in area,19860,6351,4739,3757,10928,19739,15979,10138,24098
+36,Kam Phaeng Phet,Swimming pool,,307,1624,288,0,0,0,0,0
+36,Kam Phaeng Phet,Petrol station (Oil/LPG/NGV),11404,1890,0,0,4059,17168,5012,6915,4571
+36,Kam Phaeng Phet,Harbour,,,,0,0,0,0,0,0
+36,Kam Phaeng Phet,Sport ground,,,,0,0,0,0,0,0
+36,Kam Phaeng Phet,Car park,,450,0,132,4028,766,564,0,8534
+36,Kam Phaeng Phet,Advertisting board,495,874,42,1232,358,97,531,70,1265
+36,Kam Phaeng Phet,Phone Antenna,,,,,,180,208,543,2228
+36,Kam Phaeng Phet,Others,7961,2830,3073,2105,2483,1528,9664,2610,7500
+26,Tak,Engineering construction measured in length,1161,9582,662,3639,7108,5391,3559,1973,940
+26,Tak,Fence / wall,1026,3080,662,1591,7108,5352,2465,1943,136
+26,Tak,Road,,6472,0,2020,0,15,90,0,0
+26,Tak,Bridge,,30,,0,0,0,54,30,0
+26,Tak,Dam,,,,28,0,0,500,0,804
+26,Tak,Water drain,6,,,0,0,0,450,0,0
+26,Tak,Others,129,,,0,0,24,0,0,0
+26,Tak,Engineering construction measured in area,7989,11771,58,7068,11918,10945,7934,15221,3424
+26,Tak,Swimming pool,,,,0,0,0,0,0,0
+26,Tak,Petrol station (Oil/LPG/NGV),,,0,689,7094,469,2648,1309,0
+26,Tak,Harbour,,,,0,0,0,0,0,0
+26,Tak,Sport ground,2657,7923,,0,0,0,0,0,0
+26,Tak,Car park,,915,0,5778,0,8819,4153,2435,1575
+26,Tak,Advertisting board,3058,207,58,428,3737,576,0,283,0
+26,Tak,Phone Antenna,,,,,,359,101,307,227
+26,Tak,Others,2274,2726,0,173,1087,722,1032,10887,1622
+7,Sukhothai,Engineering construction measured in length,1060,1009,655,12454,25402,8436,7674,11613,7635
+7,Sukhothai,Fence / wall,621,865,15,2059,1918,1344,1396,4156,3085
+7,Sukhothai,Road,,,640,10310,15472,5912,5553,7457,1478
+7,Sukhothai,Bridge,,,,32,378,250,0,0,0
+7,Sukhothai,Dam,,,0,0,1932,0,0,0,3068
+7,Sukhothai,Water drain,331,,0,53,5702,930,26,0,0
+7,Sukhothai,Others,108,144,,0,0,0,699,0,4
+7,Sukhothai,Engineering construction measured in area,3861,2124,3408,4469,5944,17787,2460,10342,738
+7,Sukhothai,Swimming pool,,1183,,215,0,0,0,354,0
+7,Sukhothai,Petrol station (Oil/LPG/NGV),306,,,2473,2150,930,486,4824,0
+7,Sukhothai,Harbour,,,,0,0,0,0,0,0
+7,Sukhothai,Sport ground,,,700,0,754,0,0,592,0
+7,Sukhothai,Car park,340,370,2242,764,1600,6046,708,1924,77
+7,Sukhothai,Advertisting board,259,180,240,294,471,418,128,61,72
+7,Sukhothai,Phone Antenna,,,,,,500,107,461,541
+7,Sukhothai,Others,2956,391,226,723,969,9893,1031,2126,48
+21,Phitsanulok,Engineering construction measured in length,115,10117,4870,29926,2090,8825,3473,2194,2470
+21,Phitsanulok,Fence / wall,115,2703,0,1951,379,1498,2993,2069,46
+21,Phitsanulok,Road,,6313,4870,6986,0,52,190,64,0
+21,Phitsanulok,Bridge,,,,0,0,0,0,0,0
+21,Phitsanulok,Dam,,,,15441,1592,0,0,0,0
+21,Phitsanulok,Water drain,,1101,0,3839,119,75,290,61,1726
+21,Phitsanulok,Others,,,,1709,0,7200,0,0,698
+21,Phitsanulok,Engineering construction measured in area,4540,20216,0,12910,10252,48691,10513,12279,2788
+21,Phitsanulok,Swimming pool,348,2385,,0,0,742,73,184,0
+21,Phitsanulok,Petrol station (Oil/LPG/NGV),17,9831,0,3627,3219,4802,1906,10738,0
+21,Phitsanulok,Harbour,,,,0,0,0,0,0,0
+21,Phitsanulok,Sport ground,,,,0,0,568,0,0,0
+21,Phitsanulok,Car park,765,4459,0,5577,6400,0,5688,1195,675
+21,Phitsanulok,Advertisting board,11,192,0,360,85,261,0,59,421
+21,Phitsanulok,Phone Antenna,,,,,,176,389,103,478
+21,Phitsanulok,Others,3399,3349,0,3346,548,42142,2457,0,1214
+54,Phichit,Engineering construction measured in length,2621,199,0,11013,11591,4527,27642,5503,5589
+54,Phichit,Fence / wall,2353,199,0,1746,7292,2133,1064,1758,3945
+54,Phichit,Road,,,,7037,3501,1910,25963,3735,1336
+54,Phichit,Bridge,108,,,0,0,0,252,0,173
+54,Phichit,Dam,,,,548,0,52,0,0,0
+54,Phichit,Water drain,,,,1682,662,420,363,0,135
+54,Phichit,Others,160,,0,0,136,12,0,10,0
+54,Phichit,Engineering construction measured in area,14470,168,0,12854,7543,2919,12958,162,22548
+54,Phichit,Swimming pool,,,,483,3027,84,40,52,30
+54,Phichit,Petrol station (Oil/LPG/NGV),,,,2700,3791,287,1789,0,760
+54,Phichit,Harbour,,,,0,0,0,0,0,0
+54,Phichit,Sport ground,,,,0,0,1344,0,0,0
+54,Phichit,Car park,11882,,0,8250,0,205,926,81,100
+54,Phichit,Advertisting board,712,,0,1421,376,0,0,4,112
+54,Phichit,Phone Antenna,,,,,,891,143,25,1635
+54,Phichit,Others,1876,168,0,0,349,108,10060,0,19911
+10,Phetchabun,Engineering construction measured in length,185,7809,136,2432,7497,2173,4383,2207,2647
+10,Phetchabun,Fence / wall,185,402,136,482,1163,2014,844,2006,1978
+10,Phetchabun,Road,,6790,,900,4811,159,2961,191,666
+10,Phetchabun,Bridge,,,,0,0,0,0,0,0
+10,Phetchabun,Dam,,,,0,0,0,0,0,0
+10,Phetchabun,Water drain,,520,,976,390,0,578,10,3
+10,Phetchabun,Others,,97,,74,1133,0,0,0,0
+10,Phetchabun,Engineering construction measured in area,757,,,266,7695,330,4960,227,1671
+10,Phetchabun,Swimming pool,,,,120,0,0,407,0,0
+10,Phetchabun,Petrol station (Oil/LPG/NGV),,,,0,5539,57,0,105,114
+10,Phetchabun,Harbour,,,,0,0,0,0,0,0
+10,Phetchabun,Sport ground,,,,0,0,0,0,0,1440
+10,Phetchabun,Car park,,,,0,1096,195,2137,0,0
+10,Phetchabun,Advertisting board,,,,0,103,0,15,15,17
+10,Phetchabun,Phone Antenna,,,,,,78,483,107,100
+10,Phetchabun,Others,757,,,146,957,0,1918,0,0
+6,Nakhon Ratchasima,Engineering construction measured in length,45805,53073,16906,105781,82711,67597,89656,71451,59978
+6,Nakhon Ratchasima,Fence / wall,13960,33169,8040,41053,25171,23791,32468,22677,14416
+6,Nakhon Ratchasima,Road,3326,2034,0,11319,8115,10201,5560,4330,15222
+6,Nakhon Ratchasima,Bridge,3290,18,,0,0,268,0,0,140
+6,Nakhon Ratchasima,Dam,297,,5745,3253,0,135,0,0,834
+6,Nakhon Ratchasima,Water drain,23880,16186,3121,48940,49130,33182,51628,44425,29366
+6,Nakhon Ratchasima,Others,1052,1666,0,1216,295,20,0,19,0
+6,Nakhon Ratchasima,Engineering construction measured in area,18953,75451,30582,45856,71317,140869,84617,53013,43108
+6,Nakhon Ratchasima,Swimming pool,,1109,250,1830,423,3675,2481,3564,8617
+6,Nakhon Ratchasima,Petrol station (Oil/LPG/NGV),3167,16653,15004,15777,25064,34656,41330,22417,12685
+6,Nakhon Ratchasima,Harbour,,92,,0,0,0,0,0,0
+6,Nakhon Ratchasima,Sport ground,90,1774,,0,0,1976,2053,0,0
+6,Nakhon Ratchasima,Car park,3821,45953,3753,15567,23017,91339,17442,6113,18536
+6,Nakhon Ratchasima,Advertisting board,681,1544,1653,1782,2078,1817,1584,1654,1841
+6,Nakhon Ratchasima,Phone Antenna,,,,,,1802,1653,662,1327
+6,Nakhon Ratchasima,Others,11194,8326,9922,10900,20735,5604,18074,18603,102
+35,Buri Ram,Engineering construction measured in length,5809,29616,0,16442,11704,6552,4285,10383,18656
+35,Buri Ram,Fence / wall,716,395,0,0,2474,618,1792,3284,5736
+35,Buri Ram,Road,,1726,0,0,240,4473,1204,0,3032
+35,Buri Ram,Bridge,,,,0,0,180,0,0,0
+35,Buri Ram,Dam,,,,8735,0,128,0,512,0
+35,Buri Ram,Water drain,4897,27495,0,7680,8948,1153,1289,6587,9888
+35,Buri Ram,Others,196,,,27,42,0,0,0,0
+35,Buri Ram,Engineering construction measured in area,6748,22568,0,5564,12581,10627,9585,12894,8010
+35,Buri Ram,Swimming pool,47,1484,,222,292,0,0,73,189
+35,Buri Ram,Petrol station (Oil/LPG/NGV),,4470,,400,258,314,4987,4234,2909
+35,Buri Ram,Harbour,,,,0,0,0,0,0,0
+35,Buri Ram,Sport ground,,,,0,0,0,0,1984,0
+35,Buri Ram,Car park,5378,13683,0,4299,4852,649,883,83,114
+35,Buri Ram,Advertisting board,283,212,0,444,354,305,354,316,1704
+35,Buri Ram,Phone Antenna,,,,,,518,763,428,3094
+35,Buri Ram,Others,1040,2719,0,199,6825,8841,2598,5776,0
+5,Surin,Engineering construction measured in length,10501,25869,84370,34363,21017,11359,12467,25652,15805
+5,Surin,Fence / wall,904,2677,3625,13320,11110,3525,2782,10670,2556
+5,Surin,Road,815,17673,71312,9989,2787,2314,3400,6277,2606
+5,Surin,Bridge,,,,0,0,0,0,0,0
+5,Surin,Dam,1490,48,1786,2082,120,4,0,1448,0
+5,Surin,Water drain,7247,5035,6547,8972,6872,5516,6285,7257,10366
+5,Surin,Others,45,436,1100,0,128,0,0,0,277
+5,Surin,Engineering construction measured in area,1227,24568,27069,11637,32295,22674,12024,11723,6327
+5,Surin,Swimming pool,,416,271,153,0,1250,60,869,0
+5,Surin,Petrol station (Oil/LPG/NGV),,10338,8145,50,17109,314,8720,425,1296
+5,Surin,Harbour,,,,0,0,0,0,0,0
+5,Surin,Sport ground,,,684,0,903,0,0,0,2646
+5,Surin,Car park,,5400,4219,1445,4870,18839,1699,9555,218
+5,Surin,Advertisting board,213,210,2399,364,436,852,161,319,0
+5,Surin,Phone Antenna,,,,,,844,675,555,2119
+5,Surin,Others,1014,8204,11351,9625,8977,575,709,0,48
+12,Si Sa Ket,Engineering construction measured in length,621,176,0,459,7202,149,45,50,18
+12,Si Sa Ket,Fence / wall,,8,,64,113,149,45,50,18
+12,Si Sa Ket,Road,,,,0,0,0,0,0,0
+12,Si Sa Ket,Bridge,,,,0,0,0,0,0,0
+12,Si Sa Ket,Dam,,,,377,4263,0,0,0,0
+12,Si Sa Ket,Water drain,621,92,,18,0,0,0,0,0
+12,Si Sa Ket,Others,0,76,0,0,2826,0,0,0,0
+12,Si Sa Ket,Engineering construction measured in area,1392,160,0,1833,11085,9637,3986,7588,0
+12,Si Sa Ket,Swimming pool,,,,0,114,0,0,0,0
+12,Si Sa Ket,Petrol station (Oil/LPG/NGV),201,,,1696,3345,6690,3754,7436,0
+12,Si Sa Ket,Harbour,,,,0,0,0,0,0,0
+12,Si Sa Ket,Sport ground,,,0,0,0,0,0,0,0
+12,Si Sa Ket,Car park,308,,,0,1094,1296,80,0,0
+12,Si Sa Ket,Advertisting board,,,0,112,0,35,0,0,0
+12,Si Sa Ket,Phone Antenna,,,,,,270,152,146,0
+12,Si Sa Ket,Others,883,160,0,25,6532,1346,0,6,0
+41,Ubon Ratchathani,Engineering construction measured in length,2484,8505,23571,91747,56648,57679,64510,40038,60126
+41,Ubon Ratchathani,Fence / wall,1062,6042,953,4000,1840,2096,1150,2725,3464
+41,Ubon Ratchathani,Road,,,17347,74065,50727,39116,56581,26554,42905
+41,Ubon Ratchathani,Bridge,,,1122,0,343,13130,0,0,1201
+41,Ubon Ratchathani,Dam,,,823,5165,0,0,677,693,0
+41,Ubon Ratchathani,Water drain,1362,2236,3216,8417,3738,3337,6102,9956,12556
+41,Ubon Ratchathani,Others,60,227,110,100,0,0,0,110,0
+41,Ubon Ratchathani,Engineering construction measured in area,11449,15889,6176,90506,13306,5473,13301,4315,18987
+41,Ubon Ratchathani,Swimming pool,,,,72,1180,32,800,0,236
+41,Ubon Ratchathani,Petrol station (Oil/LPG/NGV),53,,18,21760,3091,3838,5148,1730,10451
+41,Ubon Ratchathani,Harbour,,,,0,0,0,0,0,0
+41,Ubon Ratchathani,Sport ground,3790,,,0,0,0,305,0,0
+41,Ubon Ratchathani,Car park,3584,10698,868,2664,2893,1141,5904,1037,4705
+41,Ubon Ratchathani,Advertisting board,206,500,132,1168,1902,192,245,416,220
+41,Ubon Ratchathani,Phone Antenna,,,,,,212,322,367,2259
+41,Ubon Ratchathani,Others,3816,4691,5158,64842,4240,58,577,765,1116
+31,Yasothon,Engineering construction measured in length,379,50,,0,54,0,0,1377,148
+31,Yasothon,Fence / wall,375,50,,0,0,0,0,1377,148
+31,Yasothon,Road,,,,0,0,0,0,0,0
+31,Yasothon,Bridge,,,,0,0,0,0,0,0
+31,Yasothon,Dam,,,,0,0,0,0,0,0
+31,Yasothon,Water drain,,,,0,0,0,0,0,0
+31,Yasothon,Others,4,,,0,54,0,0,0,0
+31,Yasothon,Engineering construction measured in area,1250,802,,0,0,0,8419,4242,100
+31,Yasothon,Swimming pool,,,,0,0,0,0,0,0
+31,Yasothon,Petrol station (Oil/LPG/NGV),,769,,0,0,0,2140,0,9
+31,Yasothon,Harbour,,,,0,0,0,0,0,0
+31,Yasothon,Sport ground,,,,0,0,0,0,0,0
+31,Yasothon,Car park,1194,,,0,0,0,155,4175,0
+31,Yasothon,Advertisting board,,,,0,0,0,0,0,0
+31,Yasothon,Phone Antenna,,,,,,0,0,60,91
+31,Yasothon,Others,56,33,,0,0,0,6124,7,0
+9,Chaiyaphum,Engineering construction measured in length,,2282,2738,14306,248,1338,1669,1639,1279
+9,Chaiyaphum,Fence / wall,,731,481,609,248,674,1509,1639,1279
+9,Chaiyaphum,Road,,,1518,12383,0,664,0,0,0
+9,Chaiyaphum,Bridge,,,,0,0,0,0,0,0
+9,Chaiyaphum,Dam,,,,0,0,0,0,0,0
+9,Chaiyaphum,Water drain,,1403,601,1154,0,0,160,0,0
+9,Chaiyaphum,Others,,148,138,160,0,0,0,0,0
+9,Chaiyaphum,Engineering construction measured in area,861,13577,4730,4641,3768,16,2391,4351,190
+9,Chaiyaphum,Swimming pool,,,,0,0,0,0,206,0
+9,Chaiyaphum,Petrol station (Oil/LPG/NGV),,700,565,0,748,0,0,1874,0
+9,Chaiyaphum,Harbour,,,,0,0,0,0,0,0
+9,Chaiyaphum,Sport ground,,,,0,0,0,0,0,0
+9,Chaiyaphum,Car park,,11460,3770,1198,0,0,1120,1073,0
+9,Chaiyaphum,Advertisting board,15,758,121,20,0,0,58,1139,0
+9,Chaiyaphum,Phone Antenna,,,,,,16,745,59,190
+9,Chaiyaphum,Others,846,659,274,3423,3020,0,468,0,0
+67,Amnat Chareon,Engineering construction measured in length,1704,778,0,1123,1878,673,223,116,0
+67,Amnat Chareon,Fence / wall,807,550,0,718,1164,456,223,116,0
+67,Amnat Chareon,Road,175,,0,0,0,25,0,0,0
+67,Amnat Chareon,Bridge,,,,0,0,0,0,0,0
+67,Amnat Chareon,Dam,,,,0,0,0,0,0,0
+67,Amnat Chareon,Water drain,482,,0,405,643,192,0,0,0
+67,Amnat Chareon,Others,240,228,0,0,71,0,0,0,0
+67,Amnat Chareon,Engineering construction measured in area,4888,84,0,40,12012,522,2683,415,106
+67,Amnat Chareon,Swimming pool,,,,0,0,0,0,0,0
+67,Amnat Chareon,Petrol station (Oil/LPG/NGV),33,,0,0,4502,0,1534,0,0
+67,Amnat Chareon,Harbour,,,,0,0,0,0,0,0
+67,Amnat Chareon,Sport ground,,,,0,0,0,0,0,0
+67,Amnat Chareon,Car park,4612,,0,0,6838,281,0,0,0
+67,Amnat Chareon,Advertisting board,48,24,0,40,339,141,18,323,60
+67,Amnat Chareon,Phone Antenna,,,,,,100,48,92,46
+67,Amnat Chareon,Others,195,60,0,0,333,0,1083,0,0
+39,Bueng Kan,Engineering construction measured in length,,88,,42,586,151,1611,0,0
+39,Bueng Kan,Fence / wall,210,10,,0,566,151,110,0,0
+39,Bueng Kan,Road,,,,0,0,0,176,0,0
+39,Bueng Kan,Bridge,,,,0,0,0,0,0,0
+39,Bueng Kan,Dam,,78,,0,0,0,0,0,0
+39,Bueng Kan,Water drain,,,,0,0,0,1325,0,0
+39,Bueng Kan,Others,,,,42,20,0,0,0,0
+39,Bueng Kan,Engineering construction measured in area,1621,2416,,1438,3970,6670,62,0,40
+39,Bueng Kan,Swimming pool,,,,0,0,0,0,0,0
+39,Bueng Kan,Petrol station (Oil/LPG/NGV),,2100,,0,0,5370,0,0,0
+39,Bueng Kan,Harbour,,,,0,0,0,0,0,0
+39,Bueng Kan,Sport ground,,,,0,3000,0,0,0,0
+39,Bueng Kan,Car park,1600,,,0,0,1300,0,0,0
+39,Bueng Kan,Advertisting board,21,4,,21,0,0,53,0,40
+39,Bueng Kan,Phone Antenna,,,,,,0,9,0,0
+39,Bueng Kan,Others,,312,,1417,970,0,0,0,0
+3,Nongbua Lamphu,Engineering construction measured in length,574,3430,0,620,558,253,798,517,278
+3,Nongbua Lamphu,Fence / wall,334,1647,0,295,450,253,694,517,278
+3,Nongbua Lamphu,Road,,1096,,0,0,0,0,0,0
+3,Nongbua Lamphu,Bridge,,,,0,0,0,80,0,0
+3,Nongbua Lamphu,Dam,,,,0,0,0,0,0,0
+3,Nongbua Lamphu,Water drain,180,687,0,325,0,0,24,0,0
+3,Nongbua Lamphu,Others,60,,,0,108,0,0,0,0
+3,Nongbua Lamphu,Engineering construction measured in area,7584,10025,3032,7464,3073,28411,500,394,439
+3,Nongbua Lamphu,Swimming pool,,,,0,70,0,0,0,0
+3,Nongbua Lamphu,Petrol station (Oil/LPG/NGV),2756,1335,,3596,64,0,122,64,122
+3,Nongbua Lamphu,Harbour,,,,0,0,0,0,0,0
+3,Nongbua Lamphu,Sport ground,924,,,0,0,28200,0,0,0
+3,Nongbua Lamphu,Car park,28,48,0,3476,131,0,0,144,0
+3,Nongbua Lamphu,Advertisting board,25,328,0,392,209,65,14,0,0
+3,Nongbua Lamphu,Phone Antenna,,,,,,146,0,74,317
+3,Nongbua Lamphu,Others,3851,8314,3032,0,2599,0,364,112,0
+15,Khon Kaen,Engineering construction measured in length,75380,29312,509,15585,3411,1868,7114,9677,17350
+15,Khon Kaen,Fence / wall,38061,13868,336,7628,3269,1322,3126,4618,6717
+15,Khon Kaen,Road,405,,23,2803,0,0,213,0,1514
+15,Khon Kaen,Bridge,,,,0,16,0,0,0,0
+15,Khon Kaen,Dam,,,,934,6,0,0,0,0
+15,Khon Kaen,Water drain,36914,15217,105,4154,120,546,3775,5059,9119
+15,Khon Kaen,Others,,227,45,66,0,0,0,0,0
+15,Khon Kaen,Engineering construction measured in area,9717,20760,1140,10169,3597,9626,6384,3801,13338
+15,Khon Kaen,Swimming pool,824,,0,0,96,0,608,93,91
+15,Khon Kaen,Petrol station (Oil/LPG/NGV),,40,0,3482,0,8801,130,129,11156
+15,Khon Kaen,Harbour,,,,0,0,0,0,0,0
+15,Khon Kaen,Sport ground,,2133,,846,0,0,2496,0,0
+15,Khon Kaen,Car park,5467,1834,,3683,495,0,1234,2638,200
+15,Khon Kaen,Advertisting board,1650,559,8,300,436,442,753,397,418
+15,Khon Kaen,Phone Antenna,,,,,,383,1064,408,1325
+15,Khon Kaen,Others,1776,16194,1132,1858,2570,0,99,136,148
+23,Udon Thani,Engineering construction measured in length,58858,478,0,88,60019,106,1502,3937,2939
+23,Udon Thani,Fence / wall,821,73,0,0,13975,68,0,1183,1287
+23,Udon Thani,Road,,,,88,30202,0,1176,1129,0
+23,Udon Thani,Bridge,,249,,0,0,0,0,0,718
+23,Udon Thani,Dam,,,,0,2000,0,0,75,0
+23,Udon Thani,Water drain,57804,156,0,0,13339,38,326,1550,934
+23,Udon Thani,Others,233,,,0,503,0,0,0,0
+23,Udon Thani,Engineering construction measured in area,36749,161,0,0,7114,0,900,17718,12970
+23,Udon Thani,Swimming pool,,,,0,314,0,0,321,17
+23,Udon Thani,Petrol station (Oil/LPG/NGV),161,,,0,1152,0,0,0,4056
+23,Udon Thani,Harbour,,,,0,0,0,0,0,0
+23,Udon Thani,Sport ground,9318,,,0,2726,0,0,0,3558
+23,Udon Thani,Car park,15029,,,0,450,0,900,17065,3820
+23,Udon Thani,Advertisting board,3564,,0,0,572,0,0,55,464
+23,Udon Thani,Phone Antenna,,,,,,0,0,277,61
+23,Udon Thani,Others,8677,161,0,0,1900,0,0,0,994
+16,Loei,Engineering construction measured in length,1315,602,81,2150,1255,408,0,15468,24
+16,Loei,Fence / wall,1315,602,0,769,862,408,0,226,24
+16,Loei,Road,,,,1269,393,0,0,15242,0
+16,Loei,Bridge,,,,0,0,0,0,0,0
+16,Loei,Dam,,,,0,0,0,0,0,0
+16,Loei,Water drain,,,,112,0,0,0,0,0
+16,Loei,Others,,,81,0,0,0,0,0,0
+16,Loei,Engineering construction measured in area,2341,1012,1052,14786,733,654,1060,605,256
+16,Loei,Swimming pool,,,,644,0,0,0,325,144
+16,Loei,Petrol station (Oil/LPG/NGV),,,,12196,0,0,358,0,64
+16,Loei,Harbour,,,,0,0,0,0,0,0
+16,Loei,Sport ground,,,,0,0,0,0,0,0
+16,Loei,Car park,126,,,94,0,0,0,0,0
+16,Loei,Advertisting board,286,456,47,185,63,114,0,192,9
+16,Loei,Phone Antenna,,,,,,0,12,0,0
+16,Loei,Others,1929,556,1005,1667,670,540,690,88,39
+13,Nong Khai,Engineering construction measured in length,1242,1299,0,1043,1536,1963,2519,2515,7189
+13,Nong Khai,Fence / wall,1043,691,0,572,1273,639,1473,1903,829
+13,Nong Khai,Road,,,,0,0,885,403,0,0
+13,Nong Khai,Bridge,,309,0,0,0,0,0,0,0
+13,Nong Khai,Dam,,,0,0,0,20,0,0,0
+13,Nong Khai,Water drain,199,299,0,471,263,419,643,612,6360
+13,Nong Khai,Others,,,,0,0,0,0,0,0
+13,Nong Khai,Engineering construction measured in area,1568,6166,605,6138,1329,5638,428,1435,890
+13,Nong Khai,Swimming pool,,,,0,0,0,0,100,0
+13,Nong Khai,Petrol station (Oil/LPG/NGV),,879,,6138,0,0,428,786,0
+13,Nong Khai,Harbour,,,,0,0,0,0,0,0
+13,Nong Khai,Sport ground,,,,0,0,0,0,0,0
+13,Nong Khai,Car park,710,4204,330,0,50,0,0,184,0
+13,Nong Khai,Advertisting board,480,323,0,0,470,2016,0,119,416
+13,Nong Khai,Phone Antenna,,,,,,16,0,130,166
+13,Nong Khai,Others,378,760,275,0,809,3606,0,116,308
+46,Maha Sarakham,Engineering construction measured in length,5678,10316,2530,5144,10498,6467,6260,8222,4777
+46,Maha Sarakham,Fence / wall,2066,3350,1026,3517,2880,831,2079,3546,1494
+46,Maha Sarakham,Road,269,4253,1467,476,5694,1634,2126,2988,692
+46,Maha Sarakham,Bridge,,,,0,0,0,0,0,0
+46,Maha Sarakham,Dam,,,,0,0,0,0,0,0
+46,Maha Sarakham,Water drain,2065,2507,37,1151,1728,4002,2055,1688,2591
+46,Maha Sarakham,Others,1278,206,0,0,196,0,0,0,0
+46,Maha Sarakham,Engineering construction measured in area,3583,15240,11838,2964,25575,3525,8828,10937,1494
+46,Maha Sarakham,Swimming pool,1536,302,0,0,0,225,0,1768,0
+46,Maha Sarakham,Petrol station (Oil/LPG/NGV),,419,,0,10889,117,7275,587,8
+46,Maha Sarakham,Harbour,,,,0,0,0,0,0,0
+46,Maha Sarakham,Sport ground,,,0,924,0,2072,0,126,0
+46,Maha Sarakham,Car park,225,12456,9707,1730,5691,0,880,1370,308
+46,Maha Sarakham,Advertisting board,81,247,34,270,670,21,361,110,762
+46,Maha Sarakham,Phone Antenna,,,,,,759,312,290,416
+46,Maha Sarakham,Others,1741,1816,2097,40,8325,331,0,6686,0
+0,Roi Et,Engineering construction measured in length,3340,4632,1096,6786,3182,2053,2709,2499,4383
+0,Roi Et,Fence / wall,274,185,190,1253,1114,1144,1905,618,1873
+0,Roi Et,Road,1518,761,,3132,1460,362,0,347,1863
+0,Roi Et,Bridge,,,,0,0,0,0,0,0
+0,Roi Et,Dam,,460,,0,0,0,0,0,0
+0,Roi Et,Water drain,1408,3226,906,2401,608,547,804,1534,647
+0,Roi Et,Others,140,,,0,0,0,0,0,0
+0,Roi Et,Engineering construction measured in area,12879,13256,19622,22203,1578,18258,5028,5801,1910
+0,Roi Et,Swimming pool,,,,213,0,619,0,0,0
+0,Roi Et,Petrol station (Oil/LPG/NGV),1203,7336,0,9694,391,16290,0,5145,1060
+0,Roi Et,Harbour,,,,0,0,0,0,0,0
+0,Roi Et,Sport ground,,,6436,1827,0,0,0,0,0
+0,Roi Et,Car park,6911,3970,11240,8519,361,150,3524,585,590
+0,Roi Et,Advertisting board,342,269,210,657,193,302,543,71,231
+0,Roi Et,Phone Antenna,,,,,,150,697,0,29
+0,Roi Et,Others,4423,1681,1736,1293,633,747,264,0,0
+20,Kalasin,Engineering construction measured in length,3690,567,0,42,1868,5445,10575,6363,6560
+20,Kalasin,Fence / wall,478,66,0,0,308,63,2453,284,1319
+20,Kalasin,Road,2591,,,0,0,0,1908,0,392
+20,Kalasin,Bridge,,,,0,0,0,0,616,0
+20,Kalasin,Dam,,,,0,0,0,0,0,0
+20,Kalasin,Water drain,585,501,0,0,1560,5382,6214,5463,4849
+20,Kalasin,Others,36,,,42,0,0,0,0,0
+20,Kalasin,Engineering construction measured in area,3298,2518,0,14740,4933,7406,6480,9842,4361
+20,Kalasin,Swimming pool,,,0,0,0,128,332,200,0
+20,Kalasin,Petrol station (Oil/LPG/NGV),,2191,0,1055,2620,0,283,3174,1897
+20,Kalasin,Harbour,,,,0,0,0,0,0,0
+20,Kalasin,Sport ground,1558,,,0,0,1623,0,2078,0
+20,Kalasin,Car park,933,188,0,13465,0,3303,4759,2225,1286
+20,Kalasin,Advertisting board,,40,0,147,671,2152,1006,180,379
+20,Kalasin,Phone Antenna,,,,,,200,100,33,68
+20,Kalasin,Others,807,99,0,73,1642,0,0,1952,731
+24,Sakon Nakhon,Engineering construction measured in length,6494,1491,0,3175,3836,2184,4216,4319,8801
+24,Sakon Nakhon,Fence / wall,3803,1322,0,1524,573,1259,1020,1159,2351
+24,Sakon Nakhon,Road,256,,,0,960,0,720,0,0
+24,Sakon Nakhon,Bridge,126,,,70,0,0,240,105,0
+24,Sakon Nakhon,Dam,,,,176,80,0,0,90,411
+24,Sakon Nakhon,Water drain,2263,147,0,1325,2223,925,2236,2965,5977
+24,Sakon Nakhon,Others,46,22,,80,0,0,0,0,62
+24,Sakon Nakhon,Engineering construction measured in area,3272,3405,0,26858,37990,1682,3009,17074,13154
+24,Sakon Nakhon,Swimming pool,230,,,3461,0,147,431,263,0
+24,Sakon Nakhon,Petrol station (Oil/LPG/NGV),,1053,,17254,30838,1027,1566,0,7444
+24,Sakon Nakhon,Harbour,,,,0,0,0,0,0,0
+24,Sakon Nakhon,Sport ground,,994,,0,0,0,120,188,0
+24,Sakon Nakhon,Car park,310,278,0,5846,132,27,125,13463,5296
+24,Sakon Nakhon,Advertisting board,1901,763,0,297,687,282,297,134,207
+24,Sakon Nakhon,Phone Antenna,,,,,,35,420,294,99
+24,Sakon Nakhon,Others,831,317,,0,6333,164,50,2732,108
+72,Nakhon Phanom,Engineering construction measured in length,543,2985,0,163,2472,279,511,1925,1866
+72,Nakhon Phanom,Fence / wall,473,1062,0,163,1139,279,478,1655,1554
+72,Nakhon Phanom,Road,,1095,,0,657,0,0,0,312
+72,Nakhon Phanom,Bridge,,,,0,0,0,33,0,0
+72,Nakhon Phanom,Dam,,,,0,0,0,0,250,0
+72,Nakhon Phanom,Water drain,,639,0,0,676,0,0,20,0
+72,Nakhon Phanom,Others,70,189,0,0,0,0,0,0,0
+72,Nakhon Phanom,Engineering construction measured in area,2147,10476,0,1987,36521,7400,70084,2681,1423
+72,Nakhon Phanom,Swimming pool,,,,0,244,88,0,0,0
+72,Nakhon Phanom,Petrol station (Oil/LPG/NGV),1464,7254,0,1631,27728,6879,563,1111,977
+72,Nakhon Phanom,Harbour,,,,0,0,0,0,0,0
+72,Nakhon Phanom,Sport ground,,,,0,0,0,0,0,0
+72,Nakhon Phanom,Car park,23,324,0,0,2438,188,3806,0,360
+72,Nakhon Phanom,Advertisting board,247,366,0,2,52,72,124,1250,5
+72,Nakhon Phanom,Phone Antenna,,,,,,158,80,224,81
+72,Nakhon Phanom,Others,413,2532,0,354,6059,15,65511,96,0
+61,Mukdahan,Engineering construction measured in length,,,0,119,0,0,563,0,1220
+61,Mukdahan,Fence / wall,,,,119,0,0,563,0,1220
+61,Mukdahan,Road,,,0,0,0,0,0,0,0
+61,Mukdahan,Bridge,,,,0,0,0,0,0,0
+61,Mukdahan,Dam,,,,0,0,0,0,0,0
+61,Mukdahan,Water drain,,,,0,0,0,0,0,0
+61,Mukdahan,Others,,,,0,0,0,0,0,0
+61,Mukdahan,Engineering construction measured in area,2664,651,0,1042,3183,102,60,440,432
+61,Mukdahan,Swimming pool,,,,0,0,0,0,0,0
+61,Mukdahan,Petrol station (Oil/LPG/NGV),1765,,0,0,1680,0,0,440,96
+61,Mukdahan,Harbour,,,,0,0,0,0,0,0
+61,Mukdahan,Sport ground,,,,879,0,0,0,0,0
+61,Mukdahan,Car park,25,,,0,0,0,0,0,0
+61,Mukdahan,Advertisting board,,69,0,59,466,20,27,0,0
+61,Mukdahan,Phone Antenna,,,,,,82,33,0,336
+61,Mukdahan,Others,874,582,0,104,1037,0,0,0,0
+59,Nakhon Si Thammarat,Engineering construction measured in length,1348,13726,14459,23950,9611,13011,28464,11960,29744
+59,Nakhon Si Thammarat,Fence / wall,94,3096,3209,1028,3823,2229,3019,3695,5076
+59,Nakhon Si Thammarat,Road,,2491,7790,10324,1760,2074,5604,998,16421
+59,Nakhon Si Thammarat,Bridge,,1747,178,0,0,0,400,120,192
+59,Nakhon Si Thammarat,Dam,,144,1575,6966,84,50,604,74,0
+59,Nakhon Si Thammarat,Water drain,1254,6155,1707,4407,3849,8658,18837,7073,8055
+59,Nakhon Si Thammarat,Others,0,93,,1225,95,0,0,0,0
+59,Nakhon Si Thammarat,Engineering construction measured in area,9272,31024,45681,37508,40213,38049,43133,32831,23077
+59,Nakhon Si Thammarat,Swimming pool,,164,0,0,337,56,80,577,3601
+59,Nakhon Si Thammarat,Petrol station (Oil/LPG/NGV),740,12497,18834,19083,17271,19285,17522,20744,2550
+59,Nakhon Si Thammarat,Harbour,,,,0,187,0,0,0,266
+59,Nakhon Si Thammarat,Sport ground,1935,,,924,612,0,0,180,740
+59,Nakhon Si Thammarat,Car park,2346,2324,21124,3467,13975,15585,19172,4995,10222
+59,Nakhon Si Thammarat,Advertisting board,399,534,10,243,517,1182,1941,3546,3029
+59,Nakhon Si Thammarat,Phone Antenna,,,,,,1520,3227,1395,790
+59,Nakhon Si Thammarat,Others,3852,15505,5713,13791,7314,421,1191,1394,1879
+63,Krabi,Engineering construction measured in length,2284,2707,510,4735,5595,15324,1188,633,1110
+63,Krabi,Fence / wall,490,1743,287,1849,962,1899,1102,633,887
+63,Krabi,Road,,,,2724,3820,3980,0,0,187
+63,Krabi,Bridge,72,,,0,100,0,0,0,0
+63,Krabi,Dam,1315,,,0,713,9445,0,0,0
+63,Krabi,Water drain,24,329,140,49,0,0,86,0,24
+63,Krabi,Others,383,635,83,113,0,0,0,0,12
+63,Krabi,Engineering construction measured in area,21107,17866,8977,14983,23223,22113,29568,7352,5935
+63,Krabi,Swimming pool,1679,2921,1770,702,1318,1258,1657,881,2368
+63,Krabi,Petrol station (Oil/LPG/NGV),1840,2104,2042,4689,12070,17123,10173,3162,1253
+63,Krabi,Harbour,2654,,,0,0,0,0,0,0
+63,Krabi,Sport ground,1086,,726,4304,2022,1050,3675,0,0
+63,Krabi,Car park,6012,2348,1919,2302,4710,1131,6180,334,611
+63,Krabi,Advertisting board,736,221,96,297,199,208,440,95,192
+63,Krabi,Phone Antenna,,,,,,281,1286,563,667
+63,Krabi,Others,7100,10272,2424,2689,2904,1062,6157,2317,844
+56,Phangnga,Engineering construction measured in length,340,259,1086,562,986,2277,4076,1086,3111
+56,Phangnga,Fence / wall,,79,543,0,355,1262,0,249,754
+56,Phangnga,Road,273,,495,360,400,612,3585,249,997
+56,Phangnga,Bridge,67,180,,202,0,30,213,193,1156
+56,Phangnga,Dam,,,,0,76,0,278,325,0
+56,Phangnga,Water drain,,,,0,155,373,0,70,204
+56,Phangnga,Others,,,48,0,0,0,0,0,0
+56,Phangnga,Engineering construction measured in area,,3298,47,4432,13549,9003,3143,3500,13079
+56,Phangnga,Swimming pool,,,,3164,1921,269,745,1328,893
+56,Phangnga,Petrol station (Oil/LPG/NGV),,1392,,0,6762,5436,78,1143,168
+56,Phangnga,Harbour,,990,,0,0,0,0,0,0
+56,Phangnga,Sport ground,,,,0,0,40,1427,0,448
+56,Phangnga,Car park,,,,545,2350,1685,605,729,10867
+56,Phangnga,Advertisting board,,350,47,0,339,72,138,3,33
+56,Phangnga,Phone Antenna,,,,,,81,150,257,122
+56,Phangnga,Others,,566,,723,2177,1420,0,40,548
+44,Phuket,Engineering construction measured in length,21866,23707,15284,21301,53650,22769,43291,13995,18252
+44,Phuket,Fence / wall,13220,16048,1746,7888,8891,16157,11005,5894,7185
+44,Phuket,Road,6715,2505,500,5404,29678,1897,2827,6457,4119
+44,Phuket,Bridge,234,467,28,1373,1685,231,1311,623,267
+44,Phuket,Dam,257,150,3110,1497,1225,69,94,865,55
+44,Phuket,Water drain,630,4339,9900,5054,12122,4059,27997,156,6626
+44,Phuket,Others,810,198,0,85,49,356,57,0,0
+44,Phuket,Engineering construction measured in area,37145,56110,14452,39426,102809,58064,50494,42245,211571
+44,Phuket,Swimming pool,6482,8731,5737,21738,20485,24019,25723,15859,47500
+44,Phuket,Petrol station (Oil/LPG/NGV),3057,,,0,3012,5559,3418,1562,0
+44,Phuket,Harbour,968,41,36,0,0,24,0,0,0
+44,Phuket,Sport ground,,,,164,10220,4850,1530,7743,10479
+44,Phuket,Car park,18995,44149,7683,7498,64610,19093,10979,13680,145846
+44,Phuket,Advertisting board,2328,1789,492,3433,2045,2369,2961,1212,5978
+44,Phuket,Phone Antenna,,,,,,556,493,216,243
+44,Phuket,Others,5315,1400,504,6593,2437,1594,5390,1973,1525
+11,Surat Thani,Engineering construction measured in length,5576,9621,3128,900,0,451,11007,7566,13172
+11,Surat Thani,Fence / wall,1387,3621,0,0,0,263,2966,2929,2956
+11,Surat Thani,Road,979,,1381,900,0,0,4050,1665,2070
+11,Surat Thani,Bridge,,133,,0,0,0,0,600,0
+11,Surat Thani,Dam,,,1181,0,0,0,0,0,0
+11,Surat Thani,Water drain,3210,5867,566,0,0,188,3991,2372,8146
+11,Surat Thani,Others,,,,0,0,0,0,0,0
+11,Surat Thani,Engineering construction measured in area,24800,19428,6612,0,603,5285,33332,20800,24423
+11,Surat Thani,Swimming pool,1010,1617,0,0,0,521,6932,11685,6057
+11,Surat Thani,Petrol station (Oil/LPG/NGV),10492,2668,3478,0,0,2575,15834,411,994
+11,Surat Thani,Harbour,,,,0,0,0,0,0,50
+11,Surat Thani,Sport ground,,5000,0,0,84,1700,522,1851,0
+11,Surat Thani,Car park,,4534,0,0,278,0,5744,6020,6020
+11,Surat Thani,Advertisting board,1314,993,138,0,241,113,285,158,90
+11,Surat Thani,Phone Antenna,,,,,,62,1239,597,5598
+11,Surat Thani,Others,11984,4616,2996,0,0,314,2776,78,5614
+22,Ranong,Engineering construction measured in length,24,272,1437,158,264,357,848,183,70
+22,Ranong,Fence / wall,24,229,253,0,252,357,552,183,22
+22,Ranong,Road,,,1184,158,0,0,296,0,0
+22,Ranong,Bridge,,,,0,0,0,0,0,48
+22,Ranong,Dam,,,,0,0,0,0,0,0
+22,Ranong,Water drain,,,,0,12,0,0,0,0
+22,Ranong,Others,,43,,0,0,0,0,0,0
+22,Ranong,Engineering construction measured in area,631,2593,425,1810,18746,14507,1047,2005,1937
+22,Ranong,Swimming pool,,,,0,0,895,0,0,0
+22,Ranong,Petrol station (Oil/LPG/NGV),,568,,0,17026,12749,599,1695,0
+22,Ranong,Harbour,,,,0,0,0,0,0,0
+22,Ranong,Sport ground,,600,,625,840,0,0,0,0
+22,Ranong,Car park,236,880,,0,147,0,0,156,1442
+22,Ranong,Advertisting board,21,,0,8,65,120,0,0,0
+22,Ranong,Phone Antenna,,,,,,595,385,154,438
+22,Ranong,Others,374,545,425,1177,668,148,63,0,57
+19,Chumphon,Engineering construction measured in length,5758,1430,984,630,1253,2341,2580,1518,2613
+19,Chumphon,Fence / wall,320,910,422,499,572,206,2042,892,1046
+19,Chumphon,Road,3270,,0,36,650,2135,0,0,609
+19,Chumphon,Bridge,,,,0,0,0,0,0,0
+19,Chumphon,Dam,,,493,22,0,0,112,0,0
+19,Chumphon,Water drain,1050,155,,23,11,0,426,626,958
+19,Chumphon,Others,1118,365,69,50,20,0,0,0,0
+19,Chumphon,Engineering construction measured in area,22249,15354,2372,22429,13835,15432,3258,49056,5632
+19,Chumphon,Swimming pool,1153,,,0,781,2257,0,112,0
+19,Chumphon,Petrol station (Oil/LPG/NGV),15872,2568,0,5399,5624,6027,1971,1260,600
+19,Chumphon,Harbour,,967,0,0,0,0,0,0,0
+19,Chumphon,Sport ground,,,,0,0,0,0,0,0
+19,Chumphon,Car park,,3548,210,9396,1338,629,392,294,1097
+19,Chumphon,Advertisting board,206,282,938,66,324,694,231,68,1140
+19,Chumphon,Phone Antenna,,,,,,664,595,564,225
+19,Chumphon,Others,5018,7989,1224,7568,5768,5161,69,46758,2570
+43,Songkhla,Engineering construction measured in length,6747,5042,2051,16694,20545,10724,5419,2584,6152
+43,Songkhla,Fence / wall,790,987,688,3862,6419,4898,1014,500,2551
+43,Songkhla,Road,2518,283,0,2615,8727,2580,1463,631,765
+43,Songkhla,Bridge,,,88,0,0,211,0,0,0
+43,Songkhla,Dam,,,0,5075,251,0,293,0,479
+43,Songkhla,Water drain,3267,3551,1275,5015,5148,3035,2649,1453,2357
+43,Songkhla,Others,172,221,0,127,0,0,0,0,0
+43,Songkhla,Engineering construction measured in area,213573,56096,22456,27521,68081,40962,20982,12337,12781
+43,Songkhla,Swimming pool,,540,0,342,638,1412,0,27,0
+43,Songkhla,Petrol station (Oil/LPG/NGV),25,21380,3737,5262,18119,5068,14733,11656,3610
+43,Songkhla,Harbour,,835,0,0,0,0,0,0,22
+43,Songkhla,Sport ground,992,7975,0,0,17896,960,0,0,3589
+43,Songkhla,Car park,4442,8434,4651,11251,17993,9278,3321,115,4226
+43,Songkhla,Advertisting board,752,1473,213,1206,1442,192,2409,260,912
+43,Songkhla,Phone Antenna,,,,,,1452,519,279,422
+43,Songkhla,Others,207362,15459,13855,9460,11993,22600,0,0,0
+76,Satun,Engineering construction measured in length,6670,8810,1485,442,31,765,219,534,168
+76,Satun,Fence / wall,514,,450,407,31,515,219,534,168
+76,Satun,Road,4755,7610,1035,0,0,0,0,0,0
+76,Satun,Bridge,,,,35,0,250,0,0,0
+76,Satun,Dam,,,,0,0,0,0,0,0
+76,Satun,Water drain,1120,1200,,0,0,0,0,0,0
+76,Satun,Others,281,,,0,0,0,0,0,0
+76,Satun,Engineering construction measured in area,176,4268,1022,2170,13547,20111,3518,7741,9777
+76,Satun,Swimming pool,,,,0,661,88,0,0,0
+76,Satun,Petrol station (Oil/LPG/NGV),,,0,693,6358,2036,2263,0,0
+76,Satun,Harbour,,,,0,0,0,0,0,0
+76,Satun,Sport ground,,3059,,0,4482,0,0,0,9172
+76,Satun,Car park,,,,0,0,17124,838,6355,0
+76,Satun,Advertisting board,60,,0,488,12,333,0,857,3
+76,Satun,Phone Antenna,,,,,,505,417,529,297
+76,Satun,Others,116,1209,1022,989,2034,25,0,0,305
+47,Trang,Engineering construction measured in length,444,52,2379,546,391,513,890,2507,2763
+47,Trang,Fence / wall,80,,0,254,79,513,564,192,2763
+47,Trang,Road,,,770,0,0,0,326,0,0
+47,Trang,Bridge,,,,260,312,0,0,300,0
+47,Trang,Dam,,,1609,0,0,0,0,0,0
+47,Trang,Water drain,264,,0,0,0,0,0,2015,0
+47,Trang,Others,100,52,,32,0,0,0,0,0
+47,Trang,Engineering construction measured in area,5342,2998,6395,9918,21038,1736,4118,5542,46008
+47,Trang,Swimming pool,,,0,0,0,0,0,0,0
+47,Trang,Petrol station (Oil/LPG/NGV),,,0,5158,18681,733,395,2399,19275
+47,Trang,Harbour,,,,768,0,0,0,0,0
+47,Trang,Sport ground,,,2704,0,193,0,2012,0,0
+47,Trang,Car park,,,,0,100,362,0,0,304
+47,Trang,Advertisting board,,217,30,51,66,122,213,20,153
+47,Trang,Phone Antenna,,,,,,265,459,148,129
+47,Trang,Others,5342,2781,3661,3941,1998,254,1039,2975,26147
+55,Phatthalung,Engineering construction measured in length,108,,,222,0,2439,948,1106,490
+55,Phatthalung,Fence / wall,,,,52,0,759,621,411,490
+55,Phatthalung,Road,,,,0,0,1680,279,312,0
+55,Phatthalung,Bridge,80,,,0,0,0,48,0,0
+55,Phatthalung,Dam,,,,170,0,0,0,0,0
+55,Phatthalung,Water drain,,,,0,0,0,0,383,0
+55,Phatthalung,Others,28,,,0,0,0,0,0,0
+55,Phatthalung,Engineering construction measured in area,1060,164,0,4046,1089,2205,10529,2226,17589
+55,Phatthalung,Swimming pool,,,,0,0,0,0,0,0
+55,Phatthalung,Petrol station (Oil/LPG/NGV),,,,0,0,1296,9830,2069,16858
+55,Phatthalung,Harbour,,,,0,0,0,0,0,0
+55,Phatthalung,Sport ground,,,,3239,0,0,0,0,211
+55,Phatthalung,Car park,514,,,0,857,750,100,0,411
+55,Phatthalung,Advertisting board,480,,0,81,113,63,55,0,14
+55,Phatthalung,Phone Antenna,,,,,,96,544,157,95
+55,Phatthalung,Others,66,164,0,726,119,0,0,0,0
+57,Pattani,Engineering construction measured in length,65,,47,360,0,64,0,1975,1140
+57,Pattani,Fence / wall,,,,0,0,64,0,1975,481
+57,Pattani,Road,,,,360,0,0,0,0,0
+57,Pattani,Bridge,65,,,0,0,0,0,0,0
+57,Pattani,Dam,,,,0,0,0,0,0,659
+57,Pattani,Water drain,,,,0,0,0,0,0,0
+57,Pattani,Others,,,47,0,0,0,0,0,0
+57,Pattani,Engineering construction measured in area,92,3462,23,629,2455,8334,259,3007,21189
+57,Pattani,Swimming pool,,,,0,0,0,0,0,0
+57,Pattani,Petrol station (Oil/LPG/NGV),,,,0,0,5780,0,2800,574
+57,Pattani,Harbour,,,,0,0,0,0,0,0
+57,Pattani,Sport ground,,3142,,0,2188,2112,0,0,0
+57,Pattani,Car park,,,,0,0,0,0,0,19109
+57,Pattani,Advertisting board,,,,0,0,0,0,0,500
+57,Pattani,Phone Antenna,,,,,,442,259,207,418
+57,Pattani,Others,92,320,23,629,267,0,0,0,588
+33,Yala,Engineering construction measured in length,172,825,274,3834,556,1203,482,682,446
+33,Yala,Fence / wall,135,,,0,31,63,122,182,446
+33,Yala,Road,,,27,3332,525,1140,240,500,0
+33,Yala,Bridge,,,,0,0,0,0,0,0
+33,Yala,Dam,,,,0,0,0,120,0,0
+33,Yala,Water drain,,825,214,502,0,0,0,0,0
+33,Yala,Others,37,,33,0,0,0,0,0,0
+33,Yala,Engineering construction measured in area,2913,2856,80,7482,551,5774,98,1421,103
+33,Yala,Swimming pool,,0,,0,0,0,0,0,0
+33,Yala,Petrol station (Oil/LPG/NGV),,0,0,1788,0,5631,0,1106,0
+33,Yala,Harbour,,0,,0,0,0,0,0,0
+33,Yala,Sport ground,,2100,,2100,0,0,0,0,0
+33,Yala,Car park,,,0,0,88,0,0,0,0
+33,Yala,Advertisting board,,199,,51,0,0,0,248,78
+33,Yala,Phone Antenna,,,,,,143,98,67,25
+33,Yala,Others,2913,557,80,3543,463,0,0,0,0
+40,Narathiwat,Engineering construction measured in length,,,,0,0,0,0,0,0
+40,Narathiwat,Fence / wall,,,,0,0,0,0,0,0
+40,Narathiwat,Road,,,,0,0,0,0,0,0
+40,Narathiwat,Bridge,,,,0,0,0,0,0,0
+40,Narathiwat,Dam,,,,0,0,0,0,0,0
+40,Narathiwat,Water drain,,,,0,0,0,0,0,0
+40,Narathiwat,Others,,,,0,0,0,0,0,0
+40,Narathiwat,Engineering construction measured in area,,,,0,0,0,0,0,0
+40,Narathiwat,Swimming pool,,,,0,0,0,0,0,0
+40,Narathiwat,Petrol station (Oil/LPG/NGV),,,,0,0,0,0,0,0
+40,Narathiwat,Harbour,,,,0,0,0,0,0,0
+40,Narathiwat,Sport ground,,,,0,0,0,0,0,0
+40,Narathiwat,Car park,,,,0,0,0,0,0,0
+40,Narathiwat,Advertisting board,,,,0,0,0,0,0,0
+40,Narathiwat,Phone Antenna,,,,,,0,0,0,0
+40,Narathiwat,Others,,,,0,0,0,0,0,0
